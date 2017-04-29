@@ -1,4 +1,4 @@
-Name: BaseNode
+Name: baseNode
 
 Description: A space that I and others can use to work, play and _live_ to the fullest extent and enable others to do the same. An important implication therein is the decoupling of money and right and therefore removing the pay-walls of buying or renting.
 
