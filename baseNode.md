@@ -16,3 +16,15 @@ Requirements:
 * The rights to a suitable building.
 * Finance for capital and operational expediture.
 
+Tasks:
+* Skeletal constitutional rule set. (const: who, how, what. coll: how, what. op: what.
+	- specification of assets (house, items within the house)
+	- autonomy, equality and acceptability
+	- minimization of waste
+	- statement of unrestricted domain
+	- description of resident
+	- minimal entry process (applicant and/or group action)
+	- resolution of conflict (ind < grp < whole)
+	- process of collective choice
+	- process of constitutional change
+

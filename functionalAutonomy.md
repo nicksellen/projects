@@ -40,5 +40,6 @@ Tasks:
 * Common-property development.
 	* Legal templates.
 	* Financial measures.
+* Commons housing infographics
 
 
