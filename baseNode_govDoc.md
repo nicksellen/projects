@@ -24,6 +24,19 @@ To create a document which outlines a minimal set of procedures for governing a 
 
 >>> commence chaos...
 
+Principles
+1. **Autonomy.** Individuals and the collective are free to act without coercion.
+2. **Equality.** Interests of individuals within the collective are considered equally.
+3. **Acceptability.** Avoiding opposition is to some extent preferable than pursuing support.
+
+Purposes
+* To produce, develop and/or distribute goods and services that are free to use, change and redistribute.
+* To holistically provide for the humans within the collective to live, work and play.
+* To support others wishing to set up spaces which are governed in common.
+
+Decision-making
+By individuals or else by unanimous acceptance or else by weighted score voting.
+
 1. constitutional (meta-meta)(how to change the rule-rules)
 	2. collective choice (meta)(how to change the rules)
 		3. operational (object)(the rules)
