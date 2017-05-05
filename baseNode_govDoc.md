@@ -2,7 +2,7 @@
 _baseNode → govDoc_
 
 ## Description
-To create a document which outlines a minimal set of procedures for governing a house (or other living space) as a common resource.
+To create a document which outlines a minimal set of procedures for governing a house (or other living space) as a common resource. Should be short, simple and clear.
 
 ## Features
 * Defines the domain to which it applies.
@@ -17,7 +17,7 @@ To create a document which outlines a minimal set of procedures for governing a 
 ### Open questions
 * How does the legislative/executive/judicial model relate?
 * How do Ostrom's principles relate? (I.e boundaries/local-conds/coll-choice/monitoring/sanctioning/conflict-resolution/min-rights.)
-* Why would you even make it harder to change some rules than others?
+* Why bother to make it harder to change some rules than others?
 	* _"2. Changes in deeper-level rules usually are more difficult and more costly to accomplish, thus increasing the stability of mutual expectation amond individuals interacting according to a set of rules... Rules provide stability of expectations, and efforts to change rules can rapidly reduce that stability."_ - Elinor Ostrom, Governing the Commons, pg 53-54.
 
 ------
@@ -51,7 +51,7 @@ To create a document which outlines a minimal set of procedures for governing a 
 membership
 	entire membership = every 
 
-# Changes
+Changes
 1. Changes to primary rules must be initiated by a member. To initiate a change a member must have their proposal seconded by another member. Once initiated, the entire membership must be notified of the proposed change and be given at least 14 days to collect amendments and other proposals.  After the 14 day period has elapsed, no new amendments or proposals are received and proposals are fixed as ballot options. 
 2. Changes to secondary rules
 
