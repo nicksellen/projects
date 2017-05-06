@@ -14,27 +14,57 @@ To create a document which outlines a minimal set of procedures for governing a 
 
 ------
 
-### Open questions
-* How does the legislative/executive/judicial model relate?
-* How do Ostrom's principles relate? (I.e boundaries/local-conds/coll-choice/monitoring/sanctioning/conflict-resolution/min-rights.)
+### Questions
+* How does the 'three powers' governance model relate to a housing node?
+	* I.e. Legislative, executive and judicial functions
+* How do Ostrom's CPR design principles relate to a housing node? 
+	* I.e. Clear boundaries, congruence to locality, collective-choice, monitoring, graduated sanctions, conflict-resolution, and minimal rights.
 * Why bother to make it harder to change some rules than others?
 	* _"2. Changes in deeper-level rules usually are more difficult and more costly to accomplish, thus increasing the stability of mutual expectation amond individuals interacting according to a set of rules... Rules provide stability of expectations, and efforts to change rules can rapidly reduce that stability."_ - Elinor Ostrom, Governing the Commons, pg 53-54.
+* How to decide which rule in which tier?
+* What should be off the record completely?
+
+### Inspirations
+* Wikipedia article on [Pirate code](https://en.wikipedia.org/wiki/Pirate_code) (with actual examples.)
+* Embassy (Network) San Francisco [gitbook](https://embassynetwork.gitbooks.io/embassy-sf/content/).
+* Elionor Ostrom's [design principles](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) illustrated by long-enduring CPR institutions.
+* Permaculture [ethics, principles](https://permacultureprinciples.com/downloads/Pc_Principles_Poster_EN.pdf) and domains.
+* ...
 
 ------
 
 >>> commence chaos...
 
-Principles
+line
+separated by one newline
+
+separated by two newlines
+
+
+separated by three newlines
+
+§  Purposes
+* To produce, develop and/or distribute goods and services that are free for use, change and redistribute.
+* To holistically provide for those within the collective to live, work and play.
+* To support others in establishing spaces which are governed in common.
+
+§  Principles
 1. **Autonomy.** Individuals and the collective are free to act without coercion.
 2. **Equality.** Interests of individuals within the collective are considered equally.
 3. **Acceptability.** Avoiding opposition is to some extent preferable than pursuing support.
 
-Purposes
-* To produce, develop and/or distribute goods and services that are free to use, change and redistribute.
-* To holistically provide for the humans within the collective to live, work and play.
-* To support others wishing to set up spaces which are governed in common.
+§  Unrestricted domain and negativity
 
-Decision-making
+§  Conflict
+When an action (or inaction) meets opposition. The actor could be an individual, sub-group or the collective. We do not have specialized monitors or enforcers and thus conflict is ultimately detected by individuals and resolved by individuals or the collective.
+1. Between actor and individual.
+	a. change perspective or action
+2. Between actor and informal norm.
+	b. change norm or action
+3. Between actor and formal agreement
+	c. change agreement or action
+
+§ Decision-making
 By individuals or else by unanimous acceptance or else by weighted score voting.
 
 1. constitutional (meta-meta)(how to change the rule-rules)
