@@ -1,5 +1,5 @@
 
-1. *Section title* (in bold, no period)
+1. **Section title** (in bold, no period)
 	1. First independent clause here. (All in regular text, not bold nor italic and ending as normal with periods.)Keep it all normal .
 	2. Second independent clause here, but:
 		1. first dependent subclause. (starting with lower case, like alternate sentance endings.
@@ -9,6 +9,11 @@
 		2. Mention all the members of my team
 			1. Ask for feedback
 			
-2. *Section two*
+2. **Section two**
 
 
+1. List item  
+	1.1 List item  
+	1.2 kdjdkjd  
+		1.3 djdjdj  
+2. List item

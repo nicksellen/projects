@@ -32,7 +32,8 @@ To create a document which outlines a minimal set of procedures for governing a 
 * Embassy (Network) San Francisco [gitbook](https://embassynetwork.gitbooks.io/embassy-sf/content/).
 * Elionor Ostrom's [design principles](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) illustrated by long-enduring CPR institutions.
 * Permaculture [ethics, principles](https://permacultureprinciples.com/downloads/Pc_Principles_Poster_EN.pdf) and domains.
-* ...
+* [Co-operative and Community Benefit Societies Act 2014](http://www.legislation.gov.uk/ukpga/2014/14/pdfs/ukpga_20140014_en.pdf) to inspect the UK governemnt legal form.
+* [GNU GENERAL PUBLIC LICENSE 2, June 1991](https://www.gnu.org/licenses/gpl-2.0.txt) to inspect an alternative, but valid, legal form.
 
 ------
 

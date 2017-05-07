@@ -17,4 +17,5 @@
 ∝	U+221D					proportional to
 ≈	U+2248
 `	U+0060 					backtick OR grave accent
-
+–	U+2013					en dash
+—	U+2014					em dash
