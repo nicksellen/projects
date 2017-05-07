@@ -1,6 +1,5 @@
 ### Table 3.1. _Design principles illustrated by long-enduring CPR institutions_
 
----  
 ---
 
 1. Clearly defined boundaries  
@@ -28,7 +27,15 @@ _For CPRs that fire parts of larger systems:_
 8. Nested enterprises  
 Appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises.
 
----  
+_For CPRs that fire parts of larger systems:_
+8. Nested enterprises  
+Appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises.
+
+_For CPRs that fire parts of larger systems:_
+
+8. Nested enterprises  
+Appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises.
+
 ---
 
 ('Governing the Commons', p90, Elinor Ostrom, 1990.)
