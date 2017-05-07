@@ -23,14 +23,6 @@
 7. Minimal recognition of rights to organize  
 	The rights of appropriators to devise their own institutions are not challenged by external governmental authorities.
 
-_For CPRs that fire parts of larger systems:_  
-8. Nested enterprises  
-Appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises.
-
-_For CPRs that fire parts of larger systems:_
-8. Nested enterprises  
-Appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises.
-
 _For CPRs that fire parts of larger systems:_
 
 8. Nested enterprises  
