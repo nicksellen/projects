@@ -80,6 +80,7 @@ To create a document which outlines a minimal set of procedures for governing a 
 	4. Changes to this agreement
 	
 <p align="center"><i>Finance</i></p>
+
 1. Regarding minimal recognition of rights to organise
 	1. Debt against the association if unpaid introduces the probability of state-backed legal action against the association. Legal action against the association poses a direct threat to the fulfillment of its aims. Therefore (unpayable) debt must be avoided as far as possible.
 	2. All loans taken out in the name of the association must be decided by special procedure.
