@@ -1,7 +1,7 @@
 
 
 1. Dog
-    1. German Shepherd
+	1. German Shepherd
     2. Belgian Shepherd
         1. Malinois
         2. Groenendael
