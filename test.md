@@ -13,8 +13,6 @@ Spring is passing by!
 
 &nbsp; &nbsp; of fish fill with tears.
 
-1. thing
-
 
 1. First ordered list item
 2. Another item

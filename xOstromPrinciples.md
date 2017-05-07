@@ -2,11 +2,10 @@
 
 ------
 
-1. Clearly defined boundaries
-
+1. Clearly defined boundaries  
 	Individuals or households who have rights to withdraw resource units from the CPR must be clearly defined, as must the boundaries of the CPR itself.
 	
-2. Congruence between appropriation and provision rules and local conditions
+2. Congruence between appropriation and provision rules and local conditions  
 
 	Appropriation rules restricting time, place, technology, and/or quantity of resource units are related to local labor, material, and/or money.
 	
