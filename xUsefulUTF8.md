@@ -1,3 +1,4 @@
+```
 €			AltGr+4
 ←	U+2190	AltGr+y
 ↑	U+2191	
@@ -16,4 +17,7 @@
 ⋁	U+22C1				or
 ∝	U+221D				proportional to
 ≈	U+2248
-
+`	U+0060 				backtick OR grave accent
+Throw in a URL: https://en.wikipedia.org/wiki/Syndicalism
+Throw in a [URL](https://en.wikipedia.org/wiki/Syndicalism)
+```
