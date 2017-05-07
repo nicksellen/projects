@@ -140,6 +140,10 @@ Collective.
 	2.2 Medium procedure
 	2.3 Heavy procedure
 
+------
+
+TABS
+
 ↑ space openness related to 
 	↑ room size (area & volume)
 	↑ proximity to food preparation area
@@ -147,3 +151,23 @@ Collective.
 	↑ access points (doors and passageways)
 	
 (where “space” = a volume enclosed by walls, ceiling, floor, windows and door frames.)
+
+------
+
+4 SPACES
+
+↑ space openness related to 
+    ↑ room size (area & volume)
+    ↑ proximity to food preparation area
+    ↑ proximity to building entrance
+    ↑ access points (doors and passageways)
+
+------
+
+QUOTE + TAB
+
+> ↑ space openness related to 
+>	↑ room size (area & volume)
+>	↑ proximity to food preparation area
+>	↑ proximity to building entrance
+>	↑ access points (doors and passageways)
