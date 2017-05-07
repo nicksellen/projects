@@ -15,6 +15,8 @@
 		and some more text
 		
 	this is some text and some more text with two spaces at the endthis is some text and some more text with two spaces at the endthis is some text and some more text with two spaces at the endthis is some text and some more text with two spaces at the endthis is some text and some more text with two spaces at the endthis is some text and some more text with two spaces at the end  
-	|and some more text|
+	|and some more text|  
+		|and some more text|  
+			|and some more text|
 
         this text has 8 spaces in front
