@@ -21,8 +21,11 @@ To create a document which outlines a minimal set of procedures for governing a 
 	* I.e. Clear boundaries, congruence to locality, collective-choice, monitoring, graduated sanctions, conflict-resolution, and minimal rights.
 * Why bother to make it harder to change some rules than others?
 	* _"2. Changes in deeper-level rules usually are more difficult and more costly to accomplish, thus increasing the stability of mutual expectation amond individuals interacting according to a set of rules... Rules provide stability of expectations, and efforts to change rules can rapidly reduce that stability."_ - Elinor Ostrom, Governing the Commons, pg 53-54.
-* How to decide which rule in which tier?
+* How to decide which tier to put a rule in?
+* Separate 1°, 2° and 3° in different docs, or within same doc?
 * What should be off the record completely?
+* How to develop policies without perverse incentives?
+	* Black-hat thinking
 
 ### Inspirations
 * Wikipedia article on [Pirate code](https://en.wikipedia.org/wiki/Pirate_code) (with actual examples.)
@@ -35,37 +38,34 @@ To create a document which outlines a minimal set of procedures for governing a 
 
 >>> commence chaos...
 
-line
-separated by one newline
-
-separated by two newlines
-
-
-separated by three newlines
-
 §  Purposes
-* To produce, develop and/or distribute goods and services that are free for use, change and redistribute.
-* To holistically provide for those within the collective to live, work and play.
+* To produce, develop and/or distribute goods and services that are free for use, transformation and redistribution.
+* To provide an environment to holistically support those within the collective to live, work and play.
 * To support others in establishing spaces which are governed in common.
 
 §  Principles
 1. **Autonomy.** Individuals and the collective are free to act without coercion.
 2. **Equality.** Interests of individuals within the collective are considered equally.
-3. **Acceptability.** Avoiding opposition is to some extent preferable than pursuing support.
+3. **Acceptability.** Avoiding opposition is, to some extent, preferable than pursuing support.
 
 §  Unrestricted domain and negativity
+* The collective retains has an unrestricted domain to legislate, execute and enforce
+§  Carrying capacity 
 
 §  Conflict
 When an action (or inaction) meets opposition. The actor could be an individual, sub-group or the collective. We do not have specialized monitors or enforcers and thus conflict is ultimately detected by individuals and resolved by individuals or the collective.
 1. Between actor and individual.
-	a. change perspective or action
+	change perspective or action
 2. Between actor and informal norm.
-	b. change norm or action
+	change norm or action
 3. Between actor and formal agreement
-	c. change agreement or action
-
+	change agreement or action
+	
 § Decision-making
 By individuals or else by unanimous acceptance or else by weighted score voting.
+
+§  Changes to this agreement
+
 
 1. constitutional (meta-meta)(how to change the rule-rules)
 	2. collective choice (meta)(how to change the rules)
@@ -139,3 +139,11 @@ Collective.
 	2.1 Light procedure
 	2.2 Medium procedure
 	2.3 Heavy procedure
+
+↑ space openness related to 
+	↑ room size (area & volume)
+	↑ proximity to food preparation area
+	↑ proximity to building entrance
+	↑ access points (doors and passageways)
+	
+(where “space” = a volume enclosed by walls, ceiling, floor, windows and door frames.)

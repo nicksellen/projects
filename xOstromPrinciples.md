@@ -1,4 +1,4 @@
-**Table 3.1. _Design principles illustrated by long-enduring CPR institutions_**
+## Table 3.1. _Design principles illustrated by long-enduring CPR institutions_
 
 ------
 
