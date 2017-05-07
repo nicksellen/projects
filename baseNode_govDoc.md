@@ -35,96 +35,67 @@ To create a document which outlines a minimal set of procedures for governing a 
 * [Co-operative and Community Benefit Societies Act 2014](http://www.legislation.gov.uk/ukpga/2014/14/pdfs/ukpga_20140014_en.pdf) to inspect the UK governemnt legal form.
 * [GNU GENERAL PUBLIC LICENSE 2, June 1991](https://www.gnu.org/licenses/gpl-2.0.txt) to inspect an alternative, but valid, legal form.
 
+### Form
+
+<p align="center">
+	<i>Supersection theme</i> (not numbered, centered, italic, not indexed, no period)
+</p>
+
+1. **Section title** (numbered, bold, no period)
+	1. First independent clause here. (not bold nor italic, normal text with periods.)
+	2. Second independent clause here, but:
+		1. first dependent subclause. (starting with lower case (like alternate sentance endings.))
+		2. second dependent subclause.
+			
+2. **Section two**
+	1. If you want to refer to another section, cite the section. For example, “see section 1.ii.b.”
+	2. If you want to refer to a part of this section, just cite the subsection. For example, “see subsection i.”
+
 ------
 
 >>> commence chaos...
 
-§  Purposes
-* To produce, develop and/or distribute goods and services that are free for use, transformation and redistribution.
-* To provide an environment to holistically support those within the collective to live, work and play.
-* To support others in establishing spaces which are governed in common.
+1. **Purposes**
+	1. To produce, develop and/or distribute goods and services that are free for use, transformation and redistribution.
+	2. To provide an environment to holistically support those within the collective to live, work and play.
+	3. To support others in establishing spaces which are governed in common.
 
-§  Principles
-1. **Autonomy.** Individuals and the collective are free to act without coercion.
-2. **Equality.** Interests of individuals within the collective are considered equally.
-3. **Acceptability.** Avoiding opposition is, to some extent, preferable than pursuing support.
+2. **Axioms**
+	1. The following statements reflect the reason for association and the intention of governance and as such should be considered during interpretation. These axioms are: of the  itself. represent why the association exists and how the association e reflect both the 'end' and 'means'  intended to provide an undestanding of why the association exists and how it should 
+		1. that individuals are autonomous to pursue their interests, and
+		2. that the interests of individuals are treated equally, and
+		3. that opposition of interests is avoided in preference to the pursuit of support.
+	2. Unrestricted domain and negativity... The collective retains has an unrestricted domain to legislate, execute and enforce
 
-§  Unrestricted domain and negativity
-* The collective retains has an unrestricted domain to legislate, execute and enforce
-§  Carrying capacity 
-
-§  Conflict
-When an action (or inaction) meets opposition. The actor could be an individual, sub-group or the collective. We do not have specialized monitors or enforcers and thus conflict is ultimately detected by individuals and resolved by individuals or the collective.
-1. Between actor and individual.
-	change perspective or action
-2. Between actor and informal norm.
-	change norm or action
-3. Between actor and formal agreement
-	change agreement or action
+3. **Conflict**
+	1. When an action (or inaction) meets opposition. The actor could be an individual, sub-group or the collective. We do not have specialized monitors or enforcers and thus conflict is ultimately detected by individuals and resolved by individuals or the collective.
+	1. Between actor and individual. change perspective or action
+	2. Between actor and informal norm.	change norm or action
+	3. Between actor and formal agreementchange agreement or action
 	
-§ Decision-making
-By individuals or else by unanimous acceptance or else by weighted score voting.
+4. **Decision-making**
+	1. By individuals, or else
+	2. By unanimous acceptance, or else 
+	3. By weighted score voting.
+	4. Changes to this agreement
+	
+<p align="center"><i>Finance</i></p>
+1. Regarding minimal recognition of rights to organise
+	1. Debt against the association if unpaid introduces the probability of state-backed legal action against the association. Legal action against the association poses a direct threat to the fulfillment of its aims. Therefore (unpayable) debt must be avoided as far as possible.
+	2. All loans taken out in the name of the association must be decided by special procedure.
+	3. Regular, obligatory costs should be projected one year in advance and have finance reserved for their payment. This includes:
+		1. Grundsteur (ground tax)
+		2. Rundfunkbeitrag (license fees )
+		3. Haftpflicht, eventuell Wohngebäudeversicherung (house insurance)
+		
+2. Regarding minimal provision of common goods
 
-§  Changes to this agreement
+
 
 
 1. constitutional (meta-meta)(how to change the rule-rules)
 	2. collective choice (meta)(how to change the rules)
 		3. operational (object)(the rules)
-		
-1. who is a member, how do members coordinate
-	2. what members coordinate to do
-		3. what members have coordinated to do
-		
-1. change using defined process (difficult)
-	2. change using process defined in 1. (easy)
-		3. 
-		
-... perhaps three levels is too many?
-
-1. who is a member, what are they a member of, how do they coordinate
-	2. what they coordinate to do
-	
-1. change using process defined in 1. (difficult)
-	2. change using process defined in 1. (easier)
-	
-1. 'collective decision made with 2/3 majority'
-	2. (70 % in favor of cleaning rota) → 'rota system of different areas, allocation by lot, amendments by 1/2 majority'
-		(3. << a specific rota instance >>)
-
-membership
-	entire membership = every 
-
-Changes
-1. Changes to primary rules must be initiated by a member. To initiate a change a member must have their proposal seconded by another member. Once initiated, the entire membership must be notified of the proposed change and be given at least 14 days to collect amendments and other proposals.  After the 14 day period has elapsed, no new amendments or proposals are received and proposals are fixed as ballot options. 
-2. Changes to secondary rules
-
-Initiated by: any member with seconding from any other member.
-	Participants: all members, only members.
-	Proposal phase: 2 weeks.
-	Voting phase: 2 weeks.
-	Reproposal phase: 2 weeks.
-	Voting phase: 2 weeks
-	
-
-$COLLECTIVE
-$ASSET
-
-PRIMARY RULES
-
-<<collective>>@EMA.IL
-
-§ 1. $COLLECTIVE govern $ASSETS as common-property.
-
-§ 2. Membership.
-	§ 2.1 Becoming a member.
-	Must understand and accept the primary and secondary rules.
-	States clear intent to 
-	
-§ 3. Decision-making.
-	§ 3.1 
-
-decisions may be made by an individual, a sub-collective or the whole collective
 
 Individual
 * Just do it.
@@ -149,36 +120,12 @@ Collective.
 	
 (where “space” = a volume enclosed by walls, ceiling, floor, windows and door frames.)
 
->>> On form
 
-1. **Section title** (in bold, no period)
-	1. First independent clause here. (All in regular text, not bold nor italic and ending as normal with periods.)Keep it all normal .
-	2. Second independent clause here, but:
-		1. first dependent subclause. (starting with lower case, like alternate sentance endings.
-		2. second dependent subclause.
-	3. Open a pull request
-		1. Describe my changes
-		2. Mention all the members of my team
-		3. Ask for feedback
-			
-2. **Section two**
-	1. If you want to refer to another part of the text, cite the section. For example, see section 1.ii.b.
-	2. If you want to refer to a part of the same section, cite the subsection. For example, see subsection i.
 
-1. **Section title** (in bold, no period)
 
-	1. First independent clause here. (All in regular text, not bold nor italic and ending as normal with periods.)Keep it all normal .
-	
-	2. Second independent clause here, but:
-	
-		1. first dependent subclause. (starting with lower case, like alternate sentance endings.
-		
-		2. second dependent subclause.
-		
-	3. Open a pull request
-	
-		1. Describe my changes
-		
-		2. Mention all the members of my team
-		
-		3. Ask for feedback
+1. 
+2. value(interest1) = value(interest2)
+3. ¬(opposition) > support
+
+
+
