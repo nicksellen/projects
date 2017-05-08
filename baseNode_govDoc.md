@@ -53,7 +53,11 @@ To create a document which outlines a minimal set of procedures for governing a 
 
 ------
 
->>> commence chaos...
+# Constitution
+
+1. **Name**  
+  
+	The name of the association is `$NAME`
 
 1. **Purposes**
 	1. To produce, develop and/or distribute goods and services that are free for use, transformation and redistribution.
@@ -78,10 +82,16 @@ To create a document which outlines a minimal set of procedures for governing a 
 	2. By unanimous acceptance, or else 
 	3. By weighted score voting.
 	4. Changes to this agreement
+	5. Individual
+		* Just do it.
+		* Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
+		* Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)
+	6. Collective. 
+
 	
 <p align="center"><i>Finance</i></p>
 
-1. Regarding minimal recognition of rights to organise
+5. Regarding minimal recognition of rights to organise
 	1. Debt against the association if unpaid introduces the probability of state-backed legal action against the association. Legal action against the association poses a direct threat to the fulfillment of its aims. Therefore (unpayable) debt must be avoided as far as possible.
 	2. All loans taken out in the name of the association must be decided by special procedure.
 	3. Regular, obligatory costs should be projected one year in advance and have finance reserved for their payment. This includes:
@@ -89,29 +99,16 @@ To create a document which outlines a minimal set of procedures for governing a 
 		2. Rundfunkbeitrag (license fees )
 		3. Haftpflicht, eventuell Wohngebäudeversicherung (house insurance)
 		
-2. Regarding minimal provision of common goods
+6. Regarding minimal provision of common goods
 
 
 
 
-1. constitutional (meta-meta)(how to change the rule-rules)
+7. constitutional (meta-meta)(how to change the rule-rules)
 	2. collective choice (meta)(how to change the rules)
 		3. operational (object)(the rules)
 
-Individual
-* Just do it.
-* Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
-* Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)
 
-Collective. 
-* Recommended for actions that irreversibly alter commonly used resources or require the labor of multiple individuals to achieve. Required for actions that have met or would meet resistance.
-1. Unanimity
-	1.1 Unanimous support: all individuals actively support decision.
-	1.2 Unanimous acceptance: no individual actively resists decision.
-2. Weighted score voting
-	2.1 Light procedure
-	2.2 Medium procedure
-	2.3 Heavy procedure
 
 ↑ space openness related to 
 * ↑ room size (area & volume)
@@ -121,12 +118,32 @@ Collective.
 	
 (where “space” = a volume enclosed by walls, ceiling, floor, windows and door frames.)
 
-
-
+* ind-ind
+	* relationship
+* ing-grp
+	* norm
+		* broken window/zero tolerance
+		* passive observation
+		* accelerationism
+		* Just do it.
+		* Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
+		* Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)
+	* 2° rule
+		* Recommended for actions that irreversibly alter commonly used resources or require the labor of multiple individuals to achieve. Required for actions that have met or would meet resistance.
+		1. Unanimity
+			1.1 Unanimous support: all individuals actively support decision.
+			1.2 Unanimous acceptance: no individual actively resists decision.
+		2. Weighted score voting
+			2.1 Light procedure
+			2.2 Medium procedure
+			2.3 Heavy procedure
+	* 1° rule
+	
 
 1. 
 2. value(interest1) = value(interest2)
 3. ¬(opposition) > support
 
 
+* “includes/including” is equivalent to “includes/including but not limited to”
 
