@@ -36,6 +36,7 @@ To create a document which outlines a minimal set of procedures for governing a 
 * [Co-operative and Community Benefit Societies Act 2014](http://www.legislation.gov.uk/ukpga/2014/14/pdfs/ukpga_20140014_en.pdf) to inspect the UK governemnt legal form.
 * [GNU GENERAL PUBLIC LICENSE 2, June 1991](https://www.gnu.org/licenses/gpl-2.0.txt) to inspect an alternative, but valid, legal form.
 * [Key words for use in RFCs to Indicate Requirement Levels](https://tools.ietf.org/html/rfc2119) - IETF doc on governance operators.
+* [The Membership Handbook of the Anarchist Federation](https://afed.org.uk/wp-content/uploads/2015/07/MEMBERS-HANDBOOK-web-version-2a.pdf)	
 
 ### Form and format of UK gov. legislation
 
