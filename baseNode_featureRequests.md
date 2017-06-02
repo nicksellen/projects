@@ -1,3 +1,6 @@
+# Feature requests
+This is a collection of statements from people who would benefit from a commons space and what they are looking for.
+
 > I like to split my time between times of intensity and times of serenity. Intensity is what I aim for when I go to events, gatherings, etc. Serenity is what the HQ is for
 >
 > Therefor, the features of the ideal HQ are:
@@ -7,4 +10,4 @@
 > - people around love to learn and are actively working on interesting projects, not just cuddling all day ;)
 > - not to far from a city where I can meet more people interested in using and contributing to inventaire
 > - have other unexpected but delicious features"
--- Developer with personal project and contributing to commons data projects.
+-- Developer with personal open-source project for sharing books and contributing to wikidata.
