@@ -1,28 +1,31 @@
 # Constitutional agreements
 
-Preamble
-nodeN is a set of assets dedicated to the fulfillment of certain purposes. The assets are governed by and for an association of people as a common-pool resources according to general principles and specific roles and processes.
+## Preamble
+nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes**. The assets are governed by and for an association of people as a common-pool resources according to general **principles** and specific **roles** and **processes**.
 
-1. **Assets**
-	1. The buildings Kantstraße 20, 04808 Wurzen and Kantstraße 22, 04808 Wurzen. These buildings are legally held by Haus Kante Wurzen w.V. (wirtschaftlicher Verein) which is registered with Landesdirektion Sachsen.
-	1. Physical assets located within the above buildings are by default considered to be common-pool resources.
-	1. Money held by the Haus Kante Wurzen w.V.
+## Assets
+1. The buildings Kantstraße 20, 04808 Wurzen and Kantstraße 22, 04808 Wurzen. These buildings are legally held by Haus Kante Wurzen w.V. (wirtschaftlicher Verein) which is registered with Landesdirektion Sachsen.
+1. Items located within the above buildings, unless specified otherwise.
+1. Money held by the Haus Kante Wurzen w.V.
 
-1. **Purposes**
-	1. To help people support themselves, the association and the rest of the world.
-	1. To create and federate public goods and common-pool resources.
-	1. To challenge abstract barriers towards human potential (e.g. rent.)
-	1. To maintain and improve existing assets.
-	1. To have a jolly good time.
+## Purposes
+1. To help people support themselves, the association and the rest of the world.
+1. To create and federate public goods and common-pool resources.
+1. To challenge abstract barriers towards human potential (e.g. rent.)
+1. To maintain and improve existing assets.
+1. To have a jolly good time.
 
-1. **Principles**
-	1. Autonomy: individuals are able to act according and are allowed to pursue their interests.
-	1. Equality: that individuals treat other indviduals alike.
-	1. Acceptability: that individuals value acceptance over preference.
-	1. 
-	1. Unrestricted domain and negativity... The collective retains has an unrestricted domain to legislate, execute and enforce
+## Principles
+1. Autonomy: individuals are able to act according and are allowed to pursue their interests.
+1. Equality: that individuals treat other indviduals alike.
+1. Acceptability: that individuals value acceptance over preference.
+1. Import:
+	* [Elionor Ostrom's design principles illustrated by long-enduring CPR institutions.](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) 
+	* [Permaculture ethics, principles and domains.](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf)
+	* [Scrum theory and values](http://www.scrumguides.org/scrum-guide.html)
+1. Unrestricted domain and negativity... The collective retains has an unrestricted domain to legislate, execute and enforce
 	
-1. Roles	
+## Roles	
 1. **Visitor**
 	1. An individual initially engages with the project as a visitor.
 	1. A visitor is any in-house individual who is not a volunteer or member.
@@ -46,6 +49,8 @@ nodeN is a set of assets dedicated to the fulfillment of certain purposes. The a
 
 1. **Operational action**
 	1. All individuals are, in good faith, encouraged to do things.
+
+## Processes
 
 1. **Collective action**
 	1. by unanimous acceptance
