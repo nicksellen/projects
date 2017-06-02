@@ -1,20 +1,28 @@
 # Constitutional agreements
 
+Preamble
+nodeN is a set of assets dedicated to the fulfillment of certain purposes. The assets are governed by and for an association of people as a common-pool resources according to general principles and specific roles and processes.
+
 1. **Assets**
-	1. Kantstraße 20 & 22, 04808 Wurzen
-	1. Haus Kante Wurzen w.V. (wirtschaftlicher Verein) registered with the Landesdirektion Sachsen
+	1. The buildings Kantstraße 20, 04808 Wurzen and Kantstraße 22, 04808 Wurzen. These buildings are legally held by Haus Kante Wurzen w.V. (wirtschaftlicher Verein) which is registered with Landesdirektion Sachsen.
+	1. Physical assets located within the above buildings are by default considered to be common-pool resources.
+	1. Money held by the Haus Kante Wurzen w.V.
 
 1. **Purposes**
-	1. To create and federate open-source and common-property resources.
-	1. To challenge the concept of rent.
-	1. To support individuals to live, work and play to.
+	1. To help people support themselves, the association and the rest of the world.
+	1. To create and federate public goods and common-pool resources.
+	1. To challenge abstract barriers towards human potential (e.g. rent.)
+	1. To maintain and improve existing assets.
+	1. To have a jolly good time.
 
 1. **Principles**
 	1. Autonomy: individuals are able to act according and are allowed to pursue their interests.
 	1. Equality: that individuals treat other indviduals alike.
 	1. Acceptability: that individuals value acceptance over preference.
+	1. 
 	1. Unrestricted domain and negativity... The collective retains has an unrestricted domain to legislate, execute and enforce
-		
+	
+1. Roles	
 1. **Visitor**
 	1. An individual initially engages with the project as a visitor.
 	1. A visitor is any in-house individual who is not a volunteer or member.
@@ -92,4 +100,4 @@ wsv scenarios
 	Cat III: When there are major changes to the entire project. Recorded in constitution
 	
 
-	
+<span title="hoverin' words">hover me</span>

@@ -55,12 +55,6 @@ To create documents which outlines a minimal set of procedures for governing a h
 	2. If you want to refer to a part of this section, just cite the subsection. For example, “see subsection i.”
 
 ------
-
-# Constitution
-
-1. **Name**  
-  
-	The name of the association is `$NAME`
 	
 1. **Purposes**
 	1. To produce, develop and/or distribute goods and services that are free for use, transformation and redistribution.
@@ -78,18 +72,7 @@ To create documents which outlines a minimal set of procedures for governing a h
 	1. When an action (or inaction) meets opposition. The actor could be an individual, sub-group or the collective. We do not have specialized monitors or enforcers and thus conflict is ultimately detected by individuals and resolved by individuals or the collective.
 	1. Between actor and individual. change perspective or action
 	2. Between actor and informal norm.	change norm or action
-	3. Between actor and formal agreementchange agreement or action
-	
-4. **Decision-making**
-	1. By individuals, or else
-	2. By unanimous acceptance, or else 
-	3. By weighted score voting.
-	4. Changes to this agreement
-	5. Individual
-		* Just do it.
-		* Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
-		* Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)
-	6. Collective. 
+	3. Between actor and formal agreementchange agreement or action 
 	
 <p align="center"><i>Finance</i></p>
 
@@ -100,10 +83,6 @@ To create documents which outlines a minimal set of procedures for governing a h
 		1. Grundsteur (ground tax)
 		2. Rundfunkbeitrag (license fees )
 		3. Haftpflicht, eventuell Wohngebäudeversicherung (house insurance)
-		
-1. 
-2. value(interest1) = value(interest2)
-3. ¬(opposition) > support
 
 
 1. How to change this
@@ -145,25 +124,6 @@ Changing norms
 * Just do it.
 * Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
 * Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)	
-	
-1. Primary (constitutional, meta-meta, how to change the rule-rules)
-	2. Seconday (collective-choice, meta, how to change the rules)
-		3. Tertiary (operational, object, the rules)
-
-* relationships
-* norms
-	* common experiences and knowledge (e.g. previous experiences, group activities, book-club, lectures...)
-* tertiary agreements.
-* secondary agreements
-	* written in policies
-* primary agreements
-	* written in the constitution
-	
-Categories
-* visitor
-* guest
-* probationary member
-* member
 
 dm
 individual
@@ -189,3 +149,13 @@ intervention
 	member → visitor
 	temporary ban
 	indefinite ban
+	
+	1. **Inheritance**
+		1. Collective agreements are built on top of the constitutional agreements.
+		1. In the case of conflict between the consitutional agreements and and the collective agreements, the relevant constitutional agreement should be used in preference and action taken to resolve the conflict.
+
+	1. Changing this document
+		1. Only members and volunteers may participate in changing this document as outlined below.
+		1. An individual or group wishing to change this document must clearly outline their proposal and must ensure that all participants are informed.
+		1. After informed, participants must have at least 3 days to create other proposals.
+		1. After this
