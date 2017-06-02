@@ -26,7 +26,7 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 1. Unrestricted domain and negativity... The collective retains has an unrestricted domain to legislate, execute and enforce
 	
 ## Roles	
-1. **Visitor**
+1. Visitor
 	1. An individual initially engages with the project as a visitor.
 	1. A visitor is any in-house individual who is not a volunteer or member.
 	1. A visitor residing at the space must leave 7 days after arrival.
