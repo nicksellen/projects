@@ -55,11 +55,6 @@ To create documents which outlines a minimal set of procedures for governing a h
 	2. If you want to refer to a part of this section, just cite the subsection. For example, “see subsection i.”
 
 ------
-	
-1. **Purposes**
-	1. To produce, develop and/or distribute goods and services that are free for use, transformation and redistribution.
-	2. To provide an environment to holistically support those within the collective to live, work and play.
-	3. To support others in establishing spaces which are governed in common.
 
 2. **Axioms**
 	1. The following statements reflect the reason for association and the intention of governance and as such should be considered during interpretation. These axioms are: of the  itself. represent why the association exists and how the association e reflect both the 'end' and 'means'  intended to provide an undestanding of why the association exists and how it should 
@@ -83,14 +78,6 @@ To create documents which outlines a minimal set of procedures for governing a h
 		1. Grundsteur (ground tax)
 		2. Rundfunkbeitrag (license fees )
 		3. Haftpflicht, eventuell Wohngebäudeversicherung (house insurance)
-
-
-1. How to change this
-1. How to create 2 rules
-1. General purposes
-1. General principles
-1. Domain.
-1. 
 
 Agreements
 	1. Relationships.
@@ -125,37 +112,8 @@ Changing norms
 * Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
 * Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)	
 
-dm
-individual
-	doocracy
-	announce
-	advice process
-unanimous acceptance
-weighted score voting
-	
-cr
-direct
-	question
-	nvc
-	cbt
-	cbt
-	ask for mediator
-intervention
-	mediator
-	mediators
-	panel
-	volunteer → visitor
-	member → volunteer
-	member → visitor
-	temporary ban
-	indefinite ban
-	
-	1. **Inheritance**
-		1. Collective agreements are built on top of the constitutional agreements.
-		1. In the case of conflict between the consitutional agreements and and the collective agreements, the relevant constitutional agreement should be used in preference and action taken to resolve the conflict.
-
-	1. Changing this document
-		1. Only members and volunteers may participate in changing this document as outlined below.
-		1. An individual or group wishing to change this document must clearly outline their proposal and must ensure that all participants are informed.
-		1. After informed, participants must have at least 3 days to create other proposals.
-		1. After this
+1. Changing this document
+	1. Only members and volunteers may participate in changing this document as outlined below.
+	1. An individual or group wishing to change this document must clearly outline their proposal and must ensure that all participants are informed.
+	1. After informed, participants must have at least 3 days to create other proposals.
+	1. After this
