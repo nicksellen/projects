@@ -74,6 +74,8 @@ To create documents which outlines a minimal set of procedures for governing a h
 
 (where “space” = a volume enclosed by walls, ceiling, floor, windows and door frames.)
 
+⚖ § £ 🗲 
+
 Changing norms
 * broken window/zero tolerance
 * passive observation

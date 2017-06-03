@@ -3,4 +3,8 @@
 smoking
 pets
 kids
-assertion of commons
+using the kitchen
+labor allocation
+how to keep things private
+etc
+etc

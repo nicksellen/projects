@@ -9,28 +9,25 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 1. Money held by the Haus Kante Wurzen w.V.
 
 ## Purposes
-1. To help people support themselves, the association and the rest of the world.
+1. To support people to support themselves, the association and the rest of the world.
 1. To create and federate public goods and common-pool resources.
+1. To develop and distribute free, libre and open-source software.
 1. To challenge monetary barriers to human needs.
 1. To maintain and improve nodeN assets.
 1. To have a jolly good time.
 
 ## Principles
-1. Autonomy: individuals are able to act according and are allowed to pursue their interests.
-1. Equality: that individuals treat other indviduals alike.
-1. Acceptability: that individuals value acceptance over preference.
-1. Import:
-	* [Elionor Ostrom's design principles illustrated by long-enduring CPR institutions.](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) 
-	* [Permaculture ethics, principles and domains.](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf)
-	* [Scrum theory and values](http://www.scrumguides.org/scrum-guide.html)
-1. Unrestricted domain and negativity... The collective retains has an unrestricted domain to legislate, execute and enforce
+1. Autonomy, that individuals can choose what they do.
+1. Equality, that individuals are treated the same.
+1. Acceptability, that acceptance is sought over preference.
+1. Other principles that generally apply where appropriate include [Elionor Ostrom's design principles illustrated by long-enduring CPR institutions,](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) [Permaculture ethics, principles and domains](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf) and [Scrum theory and values.](http://www.scrumguides.org/scrum-guide.html)
 	
 ## Roles
 1. Visitor
 	1. A visitor is an individual:
 		1. who is currently in the space and
 		1. who is not a volunteer or member.
-	1. A visitor may stay in the space for up to but no longer than 7 days after arrival.
+	1. A visitor may stay in the space for up to and no longer than 7 days after arrival.
 	
 1. Volunteer
 	1. An individual becomes a volunteer by accepting an invitation to become one.
@@ -39,9 +36,9 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 		1. must have read and accepted the constitutional and collective agreements.
 	1. A volunteer may live in the space indefinitely.
 	1. A volunteer ceases to be a volunteer:
-		1. by their own request or
-		1. by being absent from the space for more than 1 month or
-		1. by being asked to leave temporarily or indefinitely.
+		1. at their own request or
+		1. if they are absent from the space for more than 1 month or
+		1. if they have been asked to leave temporarily or indefinitely.
 
 1. Member
 	1. A member is an individual who has accepted an invitation to become a member.
@@ -54,12 +51,12 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 
 ## Processes
 1. Operational action
-	1. Operational action refers to activity not accounted for in the constitution or collective agreements.
+	1. Operational action refers to general, day-to-day activity which is not accounted for in the constitution or collective agreements.
 	1. Operational action is taken by unanimous acceptance or, failing that, by score voting.
 	1. Action is taken by unanimous acceptance if no individual actively opposes it. This can take many forms:
-		1. Just-do-it: Simply go ahead. Go on, try it! (a.k.a. Doocracy)
-		1. I-will-do-it: Announce that you plan to do something by HH-DD-MM-YYYY. Be sure to listen to any feedback you receive.
-		1. Ask-for-advice: Ask each person that you think might be affected for their advice (not their authorization). You can also tell them about your great idea but first ask for - and listen to - whatever advice they might have. (a.k.a. Advice Process)
+		1. Just-do-it (a.k.a. Doocracy)
+		1. I-will-do-it: Announce.
+		1. Ask-for-advice: Ask each person that you think might be affected for their advice (not their authorization). (a.k.a. Advice Process)
 	1. All individuals.: All individuals are encouraged, in good faith, to take action with transparency, communication, and commensurate with reversibility unless met by opposition.
 	1. Score voting. 
 
@@ -93,20 +90,12 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 			1. or else the individual remains a non-member and should not be put forward for membership again for at least 28 days.
 
 1. Conflict resolution
-	1. Conflicts
-	1. Direct
-		question
-		nvc
-		cbt
-	1. Assisted
-		1. Bridge-mediator
-		1. Per-person mediator
-		1. Panel mediation
-	1. Intervention
-		1. Member → Volunteer
-		1. Volunteer → Visitor
-		1. Temporary ban.
-		1. Indefinite ban.
-
-⚖ § £
-🗲 
+	1. Individuals are encouraged to resolve their conflicts directly if possible.
+		1. Techniques and tools that may be helpful include Non-violent Communication, Cognitive Behavioral Therapy and the Advice Process.
+		1. An individual may seek assistance in the form of counselling or mediation. In this case the other conflicted party/ies need not participate in mediation.
+	1. If direct attempts to resolve a conflict fails, the membership and volunteership may intervene to request the conflicted parties use some type of mediation.
+	1. If mediation attempts also fail, the membership may intervene as a last resort to:
+		1. Convert an individual(s) from volunteer to visitor and/or,
+		1. Convert an individuals(s) from member to volunteer or visitor and/or,
+		1. Request an individuals(s) to leave temporarily and/or,
+		1. Request an individuals(s) to leave indefinitely.
