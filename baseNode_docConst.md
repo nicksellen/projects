@@ -11,7 +11,7 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 ## Purposes
 1. To help people support themselves, the association and the rest of the world.
 1. To create and federate public goods and common-pool resources.
-1. To challenge abstract barriers towards human potential (e.g. rent.)
+1. To challenge monetary barriers to human needs.
 1. To maintain and improve nodeN assets.
 1. To have a jolly good time.
 
@@ -53,30 +53,46 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 		1. by being asked to leave temporarily or indefinitely.
 
 ## Processes
-1. **Operational action**
-	1. Operational activity refers to normal activity that is not contrary to the constitution or collective agreements.
-	1. Autonomous. All individuals.: All individuals are encouraged, in good faith, to take action with transparency, communication, and commensurate with reversibility unless met by opposition.
-	1. Unanimous acceptance. All individuals. 
+1. Operational action
+	1. Operational action refers to activity not accounted for in the constitution or collective agreements.
+	1. Operational action is taken by unanimous acceptance or, failing that, by score voting.
+	1. Action is taken by unanimous acceptance if no individual actively opposes it. This can take many forms:
+		1. Just-do-it: Simply go ahead. Go on, try it! (a.k.a. Doocracy)
+		1. I-will-do-it: Announce that you plan to do something by HH-DD-MM-YYYY. Be sure to listen to any feedback you receive.
+		1. Ask-for-advice: Ask each person that you think might be affected for their advice (not their authorization). You can also tell them about your great idea but first ask for - and listen to - whatever advice they might have. (a.k.a. Advice Process)
+	1. All individuals.: All individuals are encouraged, in good faith, to take action with transparency, communication, and commensurate with reversibility unless met by opposition.
 	1. Score voting. 
 
-1. **Collective choice**
+1. Collective choice
 	1. Collective choice is initiated when all members and volunteers in the space have been notified of a proposal which has the backing of a member or volunteer.
 	1. The process of constitutional change consists of a divergence phase followed by a decision phase.
 		1. The divergence phase lasts for 3 days during which time individuals create other proposals. For a proposal to be valid it must be created or backed by at member or volunteer. At the end of this phase the valid proposals are gathered into a ballot along with the control proposal 'status quo', meaning 'keep things as they are/change nothing'.
 		1. The decision phase lasts for 3 days during which time individuals score the proposals in the ballot. Only members may score proposals. Proposals are scored individually from a range of +3 to -3 and to be valid an individual must only score each proposal once and must identify themselves with their scores. At the end of this phase scores are simultaneously made public. Negative scores are multiplied by a factor of 3 (e.g. a scored of -2 is counted as -4.) Scores are totalled for each proposal and the proposal with the highest score is selected.
 	
-1. **Constitutional change**
+1. Constitutional change
 	1. The process of constitutional change is initiated when all members have been notified of a proposal which has the backing of at least 3 members.
 	1. The process of constitutional change ends when the same proposal is selected twice in a row.
 	1. The process of constitutional change is a loop consisting of a divergence phase followed by a decision phase.
 		1. The divergence phase lasts for 7 days during which time individuals create other proposals. For a proposal to be valid it must be created or backed by at least one member. At the end of this phase the valid proposals are gathered into a ballot along with the control proposal 'status quo', meaning 'keep things as they are/change nothing'.
 		1. The decision phase lasts for 7 days during which time individuals score the proposals in the ballot. Only members may score proposals. Proposals are scored individually from a range of +3 to -3 and to be valid an individual must only score each proposal once and must identify themselves with their scores. At the end of this phase scores are simultaneously made public. Negative scores are multiplied by a factor of 3 (e.g. a scored of -2 is counted as -4.) Scores are totalled for each proposal and the proposal with the highest score is selected.
 		
-1. Volunteer invitation
+1. Becoming a volunteer
+	1. The process for an eligible individual to become a volunteer is initiated when they request it (see xxx re eligibility.)
+	1. All resident members and volunteers should vote secretly whether they 'support', 'accept' or 'oppose' the requester becoming a volunteer at that time. If this is done at an assembly, the requester should not be publicly discussed before voting.
+		1. If there is unanimous 'support' the requester becomes a volunteer,
+		1. or else the assembly should discuss the result and then vote in the same way again:
+			1. If there are 3+ times as many 'support' votes relative to 'oppose' votes, the individual becomes a volunteer,
+			1. or else the individual remains a non-volunteer and should not be put forward for volunteership again for at least 7 days.
+		
+1. Becoming a member
+	1. The process for an eligible individual to become a member is initiated when they request it (see xxx re eligibility.)
+	1. All members, resident and remote, should vote secretly whether they 'support', 'accept' or 'oppose' the requester becoming a member at that time. If this is done at an assembly, the requester should not be publicly discussed before voting.
+		1. If there is unanimous 'support' the requester becomes a member,
+		1. or else the assembly should discuss the result and then vote in the same way again:
+			1. If there are 3+ times as many 'support' votes relative to 'oppose' votes, the individual becomes a member,
+			1. or else the individual remains a non-member and should not be put forward for membership again for at least 28 days.
 
-1. Member invitation
-
-1. **Conflict resolution**
+1. Conflict resolution
 	1. Conflicts
 	1. Direct
 		question
@@ -91,3 +107,6 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 		1. Volunteer → Visitor
 		1. Temporary ban.
 		1. Indefinite ban.
+
+⚖ § £
+🗲 
