@@ -53,41 +53,31 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 		1. by being asked to leave temporarily or indefinitely.
 
 ## Processes
-1. 
-
-
 1. **Operational action**
-	1. All individuals are, in good faith, encouraged to do things.
+	1. Operational activity refers to normal activity that is not contrary to the constitution or collective agreements.
+	1. Autonomous. All individuals.: All individuals are encouraged, in good faith, to take action with transparency, communication, and commensurate with reversibility unless met by opposition.
+	1. Unanimous acceptance. All individuals. 
+	1. Score voting. 
 
-1. **Changing the collective agreements**
-	1. Only members and volunteers may participate in changing the constitution.
-	1. Constitutional change is initiated when all members have been notified of a proposal which has the backing of at least 3 members.
-	1. Once initiated, the process loops until a proposal is selected twice in a row.
-	1. The process consists of:
-		1. A proposal phase of one week, where other proposals are created and gathered, then
-		1. A voting phase of one week, where proposals are scored and one selected.
-			1. The control proposal 'status quo' is added to the ballot meaning 'keep things as they are/change nothing'.
-			1. Participants score each proposal from a range of +3 to -3. 
-			1. For a vote to be valid the participant must identify themselves on their ballot. 
-			1. Votes are kept private until the end of the voting phase when they are simultaneously made public.
-			1. Scores are totalled for each option with negative scores being multiplied by 3 (e.g. a scored of -2 is counted as -4.)
-			1. The proposal with the highest score is selected.
+1. **Collective choice**
+	1. Collective choice is initiated when all members and volunteers in the space have been notified of a proposal which has the backing of a member or volunteer.
+	1. The process of constitutional change consists of a divergence phase followed by a decision phase.
+		1. The divergence phase lasts for 3 days during which time individuals create other proposals. For a proposal to be valid it must be created or backed by at member or volunteer. At the end of this phase the valid proposals are gathered into a ballot along with the control proposal 'status quo', meaning 'keep things as they are/change nothing'.
+		1. The decision phase lasts for 3 days during which time individuals score the proposals in the ballot. Only members may score proposals. Proposals are scored individually from a range of +3 to -3 and to be valid an individual must only score each proposal once and must identify themselves with their scores. At the end of this phase scores are simultaneously made public. Negative scores are multiplied by a factor of 3 (e.g. a scored of -2 is counted as -4.) Scores are totalled for each proposal and the proposal with the highest score is selected.
 	
-1. **Changing the constitution**
+1. **Constitutional change**
 	1. The process of constitutional change is initiated when all members have been notified of a proposal which has the backing of at least 3 members.
 	1. The process of constitutional change ends when the same proposal is selected twice in a row.
-	1. The process of constitutional change
-		1. For 7 days other proposals are created. At the end of this time they are gathered into a ballot along with the control proposal 'status quo' meaning 'keep things as they are/change nothing', then
-		1. For 7 days proposals are voting phase of one week, where proposals are scored and one selected.
-			1. The 
-			1. Participants score each proposal from a range of +3 to -3. 
-			1. For a vote to be valid the participant must identify themselves on their ballot. 
-			1. Votes are kept private until the end of the voting phase when they are simultaneously made public.
-			1. Scores are totalled for each option with negative scores being multiplied by 3 (e.g. a scored of -2 is counted as -4.)
-			1. The proposal with the highest score is selected.
-
+	1. The process of constitutional change is a loop consisting of a divergence phase followed by a decision phase.
+		1. The divergence phase lasts for 7 days during which time individuals create other proposals. For a proposal to be valid it must be created or backed by at least one member. At the end of this phase the valid proposals are gathered into a ballot along with the control proposal 'status quo', meaning 'keep things as they are/change nothing'.
+		1. The decision phase lasts for 7 days during which time individuals score the proposals in the ballot. Only members may score proposals. Proposals are scored individually from a range of +3 to -3 and to be valid an individual must only score each proposal once and must identify themselves with their scores. At the end of this phase scores are simultaneously made public. Negative scores are multiplied by a factor of 3 (e.g. a scored of -2 is counted as -4.) Scores are totalled for each proposal and the proposal with the highest score is selected.
 		
+1. Volunteer invitation
+
+1. Member invitation
+
 1. **Conflict resolution**
+	1. Conflicts
 	1. Direct
 		question
 		nvc
@@ -101,30 +91,3 @@ nodeN is a set of **assets** dedicated to the fulfillment of certain **purposes*
 		1. Volunteer → Visitor
 		1. Temporary ban.
 		1. Indefinite ban.
-
-dm
-individual
-	doocracy
-	announce
-	advice process
-unanimous acceptance
-weighted score voting
-
-VAR
-	participants
-	pf length
-	nota option
-	vote range
-	opposition weighting
-	vote period
-	
-wsv scenarios
-	Cat I: When unanimous acceptance is not clear or when coordinating by talking is too complicated. Not recorded.
-		e.g. Deciding when to have a meeting or which film to watch. Other blinded methods appropriate here (e.g. planning poker)
-		immediate
-		everyone who
-	Cat II: When there is clear and active opposition, when the su Recorded in operational agreements.
-		e.g. Deciding on a policy regarding indoor smoking where there are chain-smokers and non-smokers.
-	Cat III: When there are major changes to the entire project. Recorded in constitution
-	
-<span title="hoverin' words">hover me</span>

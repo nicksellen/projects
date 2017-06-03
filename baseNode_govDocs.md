@@ -56,19 +56,6 @@ To create documents which outlines a minimal set of procedures for governing a h
 
 ------
 
-2. **Axioms**
-	1. The following statements reflect the reason for association and the intention of governance and as such should be considered during interpretation. These axioms are: of the  itself. represent why the association exists and how the association e reflect both the 'end' and 'means'  intended to provide an undestanding of why the association exists and how it should 
-		1. that individuals are autonomous to pursue their interests, and
-		2. that the interests of individuals are treated equally, and
-		3. that opposition of interests is avoided in preference to the pursuit of support.
-	2. Unrestricted domain and negativity... The collective retains has an unrestricted domain to legislate, execute and enforce
-
-3. **Conflict**
-	1. When an action (or inaction) meets opposition. The actor could be an individual, sub-group or the collective. We do not have specialized monitors or enforcers and thus conflict is ultimately detected by individuals and resolved by individuals or the collective.
-	1. Between actor and individual. change perspective or action
-	2. Between actor and informal norm.	change norm or action
-	3. Between actor and formal agreementchange agreement or action 
-	
 <p align="center"><i>Finance</i></p>
 
 5. Regarding minimal recognition of rights to organise
@@ -78,23 +65,6 @@ To create documents which outlines a minimal set of procedures for governing a h
 		1. Grundsteur (ground tax)
 		2. Rundfunkbeitrag (license fees )
 		3. Haftpflicht, eventuell Wohngebäudeversicherung (house insurance)
-
-Agreements
-	1. Relationships.
-	2. Norms.
-	3. Tertiary decisions.
-		* Unanimous acceptance
-	4. Secondary decisions.
-		* Initiated by member
-		* Members in-house notified.
-		* Three days to form proposals.
-		* Three days to vote. (At least -1 to +1, status quo and repeat cycle included as options, negative ratings *3)
-	5. Primary decisions.
-		* Initiated by member with seconding and thirding members.
-		* All members, present and absent, notified.
-		* One week to form proposals.
-		* One week to vote. (Range +3 to -3, status quo included as option, negative ratings 3*)
-		* Decision reached after same option selected twice. (i.e. at least two proposal forming and two voting phases (one month))
 
 ↑ space openness related to 
 * ↑ room size (area & volume)
@@ -111,9 +81,3 @@ Changing norms
 * Just do it.
 * Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
 * Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)	
-
-1. Changing this document
-	1. Only members and volunteers may participate in changing this document as outlined below.
-	1. An individual or group wishing to change this document must clearly outline their proposal and must ensure that all participants are informed.
-	1. After informed, participants must have at least 3 days to create other proposals.
-	1. After this
