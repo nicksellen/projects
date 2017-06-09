@@ -83,3 +83,11 @@ Changing norms
 * Just do it.
 * Announce-it: notify others (i.e. 'I plan to do x after yyyy-mm-dd')
 * Ask-for-advice: consult affected, interested or knowledgable parties for advice (not authorization.)	
+
+
+1. **You can always do what you want.** Clearly you have some limitations and you can't do everything, however you can do many things and you can choose which. The fact that rules, police and observers exist does not change what you can do.
+2. **What you do always has consequences.** The consequences of your actions affect the world and, importantly, what you can do next. Some consequences will bring you closer to things you really want to do, others further away.
+3. **Consequences vary in probability.** The likelihood of an action generating leading to a particular consequence can have varying degrees of certainty and the more certain a consequence is, the more useful it is to know about it.
+4. **Conflict is a significant consequence.** Working with others dramatically increases the collective potential... if you're not in conflict. Conflict is a vague consequence in terms of its particular form
+
+Rules without specific undesire consequences (i.e. punishments) a mechanical enforcement agency (i.e. the police) are simply indicators of a high probability of conflict

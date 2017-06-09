@@ -21,6 +21,7 @@
 –	U+2013					en dash
 —	U+2014					em dash
 °	U+00B0					degree sign
+𝚫	U+1D6AB
 ```
 
 
