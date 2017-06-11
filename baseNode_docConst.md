@@ -40,61 +40,71 @@ The operational layer essentiually describes everything not described at the con
 	
 1. Volunteer
 	1. A person more deeply engages with the space as a volunteer. A volunteer has an understanding of the project and a committment to the realization of the purposes. A volunteer may stay in the space indefinitely.
-	1. To be eligible to become a volunteer a person:
-		1. must have cumulatively spent at least 7 days as a visitor and
-		1. must have read and accepted the Constitution and Collective Agreements.
-	1. An eligible person may become a volunteer by decision of the resident members and volunteers. All in-space members and volunteers should be informed of the decision and should not publicly discuss the person beforehand. Each participant should vote in secret whether they 'support', 'accept' or 'oppose' the person becoming a volunteer at that time:
-		1. If there are only 'support' votes, the person becomes a volunteer or
-		1. else the result should be discussed before the vote is repeated in the same way:
-			1. If there are 3+ times as many 'support' votes relative to 'oppose' votes, the individual becomes a volunteer or
-			1. else the individual remains a non-volunteer and should not be put forward for volunteership again for at least 7 days.
+	1. To apply for volunteership a person:
+		* must have spent at least 7 days as a visitor in total and
+		* must have read and agreed to the Constitution and Collective Agreements.
+	1. An applicant becomes a volunteer by decision of the resident members and volunteers. Without publicly discussing the applicant, each member and volunteer should secretly vote whether they 'support', 'accept' or 'oppose' the applicant becoming a volunteer at that time:
+		1. If there are only 'support' votes, the applicant becomes a volunteer without further discussion or
+		1. else the result should be discussed and then the vote repeated:
+			1. Now if there are 3 or more times as many 'support' votes to 'oppose' votes, the applicant becomes a volunteer without further discussion or
+			1. else the individual remains a non-volunteer and should not be considered again for volunteership for at least 7 days.
 	1. A volunteer ceases to be a volunteer:
 		* at their request or
-		* if they have been absent from the space for more than 1 calendar month or
 		* if they become a member or
+		* if they have been absent from the space for more than 1 calendar month or
 		* if they have their volunteer status revoked or
 		* if they have been asked to leave temporarily or indefinitely.
 
 1. Member
 	1. A person most deeply engages with the space as a member. A member may stay in the space indefinitely.
-	1. To be eligible to become a member a person must have cumulatively spent at least 28 days as a volunteer.
-	1. An eligible person may become a volunteer by decision of the members. All members, resident and remote, should be informed of the decision and should not publicly discuss the person beforehand. Each participant should vote in secret whether they 'support', 'accept' or 'oppose' the person becoming a volunteer at that time:
-		1. If there are only 'support' votes, the person becomes a volunteer or
-		1. else the result should be discussed before the vote is repeated in the same way:
-			1. If there are 3+ times as many 'support' votes relative to 'oppose' votes, the individual becomes a volunteer or
-			1. else the individual remains a non-volunteer and should not be put forward for volunteership again for at least 7 days.
+	1. To apply for membership a person must have spent at least 28 days as a volunteer in total.
+	1. An applicant becomes a member by decision of the entire membership, resident and remote. Without publicly discussing the applicant, each member should secretly vote whether they 'support', 'accept' or 'oppose' the applicant becoming a member at that time:
+		1. If there are only 'support' votes, the applicant becomes a member without further discussion or
+		1. else the result should be discussed and then the vote repeated:
+			1. Now if there are 3 or more times as many 'support' votes to 'oppose' votes, the applicant becomes a member without further discussion or
+			1. else the individual remains a non-member and should not be considered again for membership for at least 28 days.	
 	1. A member ceases to be a member:
-		1. at their request (may switch to volunteer) or
-		1. if they have been absent from the space for more than 4 calendars month (automatically switches to volunteer) or
-		1. if they have their member status revoked or
-		1. if they have been asked to leave temporarily or indefinitely.	
+		* at their request (automatically switching to volunteer) or
+		* if they have been absent from the space for more than 6 calendar months (automatically switching to volunteer) or
+		* if they have their member status revoked or
+		* if they have been asked to leave temporarily or indefinitely.	
 
-## Change
-1. Operational change
-	1. Operational action is taken by unanimous acceptance or, failing that, by score voting.
-	1. Action is taken by unanimous acceptance if no individual actively opposes it. This can take many forms:
+## Operational change
+1. Individual action
+	1. All people should do things by themselves, without asking.
+	1. All people should voice any opposition they might have towards an individual action.
+	1. If a person realizes another opposes their actions, they should stop and proceed with unanimous acceptance
+	
 		1. Just-do-it (a.k.a. Doocracy)
 		1. I-will-do-it: Announce.
 		1. Ask-for-advice: Ask each person that you think might be affected for their advice (not their authorization). (a.k.a. Advice Process)
-	1. All individuals.: All individuals are encouraged, in good faith, to take action with transparency, communication, and commensurate with reversibility unless met by opposition.
-	1. Score voting... tired
+	1. All people are, in good faith, encouraged do things without asking. All person should stop doing things if they meet opposition and proceed with unanimous acceptance. with transparency, communication, and commensurate with reversibility unless met by opposition.
 
-1. Collective change
-	1. Collective change is initiated when all in-space members and volunteers have been notified of a collective proposal which has the backing of at least 1 member or volunteer.
-	1. The process of collective change (herein 'the process') consists of a divergence phase followed by a decision phase.
-	1. The divergence phase lasts for 3 days during which time individuals create other proposals. For a proposal to be valid it must be created or backed by at member or volunteer. At the end of this phase the initial proposal, other valid proposals and the control proposals 'status quo' (meaning 'keep things as they are/change nothing') and 'repeat process' (meaning 'do another divergence phase and decision phase') are gathered into a ballot.
-	1. The decision phase lasts for 3 days during which time individuals score the proposals in the ballot. Only members and volunteers may score proposals. Proposals are privately scored from a range of +3 to -3 and to be valid an individual must only score each proposal once and must identify themselves with their scores. At the end of this phase scores are simultaneously made public. Negative scores are multiplied by a factor of 3 for counting purposes (e.g. a scored of -2 is counted as -4.) Scores are totalled for each proposal and the proposal with the highest score is selected.
-	1. Collective changes should be given a grace period of 1 week during which no contrary changes are made or intitiated.
+1. Unanimous acceptance
+	1. Discuss until no one opposes.
+	1. If you can't reach uc but a majority want to decide, go to sv
 
-1. Constitutional change
-	1. Major changes to the governance are constitutional change refers is documented by the addition, subtraction or other transformation of the Constitution (this document.)
-	1. The process of constitutional change (herein 'the process') is a looped process.
-	1. The process is initiated when all members, resident and remote, have been informed of a constitutional proposal. A constitutional proposal (1) must be backed by at least 3 members and (2) should already be implemented at the collective layer.
-	1. The process is terminated when a proposal is selected twice in a row.
-	1. The process itself is composed of a divergence phase followed by a decision phase
-		1. A divergence phase lasts 7 days during which people (1) should discuss the initial proposal and (2) may create alternative proposals. For an alternative proposal to be valid it must be created or backed by at least 1 member. At the end of a divergence phase a ballot is created by gathering (1) the initial proposal, (2) other valid proposals and (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing').
-		1. A decision phase lasts 7 days during which each member may privately score each proposal once from a range of +3 to -3. For a score to be valid it must identify the scorer. At the end of a decision phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the valid scores for each proposal are totalled and (4) the proposal with the highest total is selected.
-	1. A constitutional change should be given a grace period of 1 calendar month during which no contrary changes are made or intitiated.
+1. Score voting
+	1. ...
+	2. 
+
+
+## Collective change
+1. Collective change is initiated when all in-space members and volunteers have been notified of a collective proposal which has the backing of at least 1 member or volunteer.
+1. The process of collective change (herein 'the process') consists of a divergence phase followed by a decision phase.
+1. The divergence phase lasts for 3 days during which time individuals create other proposals. For a proposal to be valid it must be created or backed by at member or volunteer. At the end of this phase the initial proposal, other valid proposals and the control proposals 'status quo' (meaning 'keep things as they are/change nothing') and 'repeat process' (meaning 'do another divergence phase and decision phase') are gathered into a ballot.
+1. The decision phase lasts for 3 days during which time individuals score the proposals in the ballot. Only members and volunteers may score proposals. Proposals are privately scored from a range of +3 to -3 and to be valid an individual must only score each proposal once and must identify themselves with their scores. At the end of this phase scores are simultaneously made public. Negative scores are multiplied by a factor of 3 for counting purposes (e.g. a scored of -2 is counted as -4.) Scores are totalled for each proposal and the proposal with the highest score is selected.
+1. Collective changes should be given a grace period of 1 week during which no contrary changes are made or intitiated.
+
+## Constitutional change
+1. Major changes to the governance are constitutional change refers is documented by the addition, subtraction or other transformation of the Constitution (this document.)
+1. The process of constitutional change (herein 'the process') is a looped process.
+1. The process is initiated when all members, resident and remote, have been informed of a constitutional proposal. A constitutional proposal (1) must be backed by at least 3 members and (2) should already be implemented at the collective layer.
+1. The process is terminated when a proposal is selected twice in a row.
+1. The process itself is composed of a divergence phase followed by a decision phase
+	1. A divergence phase lasts 7 days during which people (1) should discuss the initial proposal and (2) may create alternative proposals. For an alternative proposal to be valid it must be created or backed by at least 1 member. At the end of a divergence phase a ballot is created by gathering (1) the initial proposal, (2) other valid proposals and (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing').
+	1. A decision phase lasts 7 days during which each member may privately score each proposal once from a range of +3 to -3. For a score to be valid it must identify the scorer. At the end of a decision phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the valid scores for each proposal are totalled and (4) the proposal with the highest total is selected.
+1. A constitutional change should be given a grace period of 1 calendar month during which no contrary changes are made or intitiated.
 
 ## Other procedures
 1. Conflict resolution
