@@ -1,15 +1,13 @@
 # Constitution
 
 ## Preamble
-`name` nodeN is another node in the space network, a project to provide a physical platform for other projects and the people doing them, a bunch of people in some flats in East Germany.. people serve themselves, the project and the rest of the world. a set of **assets** dedicated to the fulfillment of certain **purposes**. The assets are governed by and for an association of people as a common-pool resources according to general **principles** and specific **roles** and **processes**.
-
-The governance model has three layers: the constitutional layer, the collective layer and the operational layer. 
+k2022 is a space governed as a commons. The governance model has three layers: the constitutional layer, the collective layer and the operational layer. 
 
 The constitutional layer describes the core agreements upon which the other layers are built. It is documented in the Constitution (this document.) It defines the roles that people can adopt and the processes by which changes at the different layers can be made amongst other things. Changes at this layer take the most time and energy and should thus occur at the lowest rate. 
 
 The collective layer describes agreements which are more specific and fluid than those at the constitutional layer. It is documented in the [Collective-choices.](url.here) It could include things such as policies, schedules or best-practices (e.g. a cleaning rota.) Changes at this layer take a medium amount of time and energy and should thus occur at a medium rate.
 
-The operational layer essentiually describes everything not described at the constitutional or collective layer. It is not centrally documented. It could include things such as sub-group agreements, informal agreements or norms (e.g. arranging a workshop.) Changes at this layer take the least time and energy and should thus occur at the  the fastest rate.
+The operational layer essentiually describes everything not described at the constitutional or collective layer. It is not centrally documented. It could include things such as sub-group agreements, informal agreements or norms (e.g. arranging a workshop.) Changes at this layer take the least time and energy and should thus occur at the fastest rate.
 
 ## Resources
 1. The buildings [Kantstraße 20 & 22, 04808 Wurzen](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081), herein referred to as 'the space'. (The space is legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) which is registered with Landesdirektion Sachsen.)
@@ -71,16 +69,17 @@ The operational layer essentiually describes everything not described at the con
 
 ## Operational change
 1. Individual action
-	1. All people should do things by themselves, without asking.
-	1. All people should voice any opposition they might have towards an individual action.
-	1. If a person realizes another opposes their actions, they should stop and proceed with unanimous acceptance
+	1. Individual action is when a person does things by themselves, without asking.
+	1. Individual action should consider
+		1. existing agreements
+		1. the reversibility of the action
+		1. who else may be affected and how.
+	1. Everyone should voice any opposition they might have towards an individual action as soon as th
+	1. If a person realizes another opposes their actions, they should cease their activity and proceed with unanimous acceptance
 	
-		1. Just-do-it (a.k.a. Doocracy)
-		1. I-will-do-it: Announce.
-		1. Ask-for-advice: Ask each person that you think might be affected for their advice (not their authorization). (a.k.a. Advice Process)
-	1. All people are, in good faith, encouraged do things without asking. All person should stop doing things if they meet opposition and proceed with unanimous acceptance. with transparency, communication, and commensurate with reversibility unless met by opposition.
-
 1. Unanimous acceptance
+	1. Unanimous acceptance is when action is taken on the basis that no one opposes it.
+	
 	1. Discuss until no one opposes.
 	1. If you can't reach uc but a majority want to decide, go to sv
 
@@ -94,10 +93,10 @@ The operational layer essentiually describes everything not described at the con
 1. The process of collective change (herein 'the process') consists of a divergence phase followed by a decision phase.
 1. The divergence phase lasts for 3 days during which time individuals create other proposals. For a proposal to be valid it must be created or backed by at member or volunteer. At the end of this phase the initial proposal, other valid proposals and the control proposals 'status quo' (meaning 'keep things as they are/change nothing') and 'repeat process' (meaning 'do another divergence phase and decision phase') are gathered into a ballot.
 1. The decision phase lasts for 3 days during which time individuals score the proposals in the ballot. Only members and volunteers may score proposals. Proposals are privately scored from a range of +3 to -3 and to be valid an individual must only score each proposal once and must identify themselves with their scores. At the end of this phase scores are simultaneously made public. Negative scores are multiplied by a factor of 3 for counting purposes (e.g. a scored of -2 is counted as -4.) Scores are totalled for each proposal and the proposal with the highest score is selected.
-1. Collective changes should be given a grace period of 1 week during which no contrary changes are made or intitiated.
+1. Collective changes should be7 given a grace period of 1 week during which no contrary changes are made or intitiated.
 
 ## Constitutional change
-1. Major changes to the governance are constitutional change refers is documented by the addition, subtraction or other transformation of the Constitution (this document.)
+1. Constitutional change is fundamental activity that affects that to the governance are constitutional change refers is documented by the addition, subtraction or other transformation of the Constitution (this document.)
 1. The process of constitutional change (herein 'the process') is a looped process.
 1. The process is initiated when all members, resident and remote, have been informed of a constitutional proposal. A constitutional proposal (1) must be backed by at least 3 members and (2) should already be implemented at the collective layer.
 1. The process is terminated when a proposal is selected twice in a row.
