@@ -1,13 +1,13 @@
 # Constitution
 
 ## Preamble
-k2022 is a space governed as a commons. The governance model has three layers: the constitutional layer, the collective layer and the operational layer. 
+`NAME` is an open-entry common space governed as a commons. The governance model has three layers: the constitutional layer, the collective layer and the operational layer. 
 
-The constitutional layer describes the core agreements upon which the other layers are built. It is documented in the Constitution (this document.) It defines the roles that people can adopt and the processes by which changes at the different layers can be made amongst other things. Changes at this layer take the most time and energy and should thus occur at the lowest rate. 
+The constitutional layer describes the core agreements upon which the other layers are built. It is documented in the Constitution (this document.) It defines the roles people can adopt and how changes can be made at the different layers. Changes at this layer take the most time and energy and should thus occur at the lowest rate. 
 
-The collective layer describes agreements which are more specific and fluid than those at the constitutional layer. It is documented in the [Collective-choices.](url.here) It could include things such as policies, schedules or best-practices (e.g. a cleaning rota.) Changes at this layer take a medium amount of time and energy and should thus occur at a medium rate.
+The collective layer describes agreements which are more specific and fluid than those at the constitutional layer. It is documented in the [Collective-choices.](url.here) It could include things such as policies, schedules, facts or best-practices. Changes at this layer take a medium amount of time and energy and should thus occur at a medium rate.
 
-The operational layer essentiually describes everything not described at the constitutional or collective layer. It is not centrally documented. It could include things such as sub-group agreements, informal agreements or norms (e.g. arranging a workshop.) Changes at this layer take the least time and energy and should thus occur at the fastest rate.
+The operational layer describes everything else. It is not centrally documented. It could include things such as sub-group agreements, informal agreements or norms. Changes at this layer take the least time and energy and should thus occur at the fastest rate.
 
 ## Resources
 1. The buildings [Kantstraße 20 & 22, 04808 Wurzen](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081), herein referred to as 'the space'. (The space is legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) which is registered with Landesdirektion Sachsen.)
@@ -32,18 +32,25 @@ The operational layer essentiually describes everything not described at the con
 	
 ## Roles
 1. Visitor
-	1. A person first engages with the space as a visitor. A visitor has no specific responsibilities and may participate in Operational change. A visitor may stay in the space for up to and no longer than 7 days after arrival.
+	1. A person initially or temporarily engages with the space as a visitor.
+	1. There are no criteria for a person to become a visitor.
 	1. A person becomes a visitor by entering the space.
-	1. A visitor ceases to be a visitor by leaving the space.
+	1. A person ceases to be a visitor by leaving the space.
+	1. A visitor may reside in the space for up to 7 days after which they must (1) request a residential extension, (2) become a volunteer (See Volunteer) or (3) leave the space.
+	1. A visitor may receive a residential extension of 7 days by decision of the resident members and volunteers (herein 'participants'). Without publicly discussing the visitor, the participants should vote in secret whether they 'support', 'accept' or 'oppose' the visitor receiving an extension at that time:
+		1. if there are only 'support' votes, the visitor receives an extension without further discussion or
+		1. else the participants should discuss the result before repeating the above voting procedure. This time:
+			1. if there are 3 or more times as many 'support' votes to 'oppose' votes, the visitor receives an extension without further discussion or
+			1. else the visitor should leave and not return for at least 7 days.
 	
 1. Volunteer
 	1. A person more deeply engages with the space as a volunteer. A volunteer has an understanding of the project and a committment to the realization of the purposes. A volunteer may stay in the space indefinitely.
 	1. To apply for volunteership a person:
-		* must have spent at least 7 days as a visitor in total and
+		* must have spent at least 8 days as a visitor in total and
 		* must have read and agreed to the Constitution and Collective Agreements.
 	1. An applicant becomes a volunteer by decision of the resident members and volunteers. Without publicly discussing the applicant, each member and volunteer should secretly vote whether they 'support', 'accept' or 'oppose' the applicant becoming a volunteer at that time:
 		1. If there are only 'support' votes, the applicant becomes a volunteer without further discussion or
-		1. else the result should be discussed and then the vote repeated:
+		1. else the result and the reasons for it should be discussed and then the vote repeated:
 			1. Now if there are 3 or more times as many 'support' votes to 'oppose' votes, the applicant becomes a volunteer without further discussion or
 			1. else the individual remains a non-volunteer and should not be considered again for volunteership for at least 7 days.
 	1. A volunteer ceases to be a volunteer:
@@ -105,14 +112,13 @@ The operational layer essentiually describes everything not described at the con
 	1. A decision phase lasts 7 days during which each member may privately score each proposal once from a range of +3 to -3. For a score to be valid it must identify the scorer. At the end of a decision phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the valid scores for each proposal are totalled and (4) the proposal with the highest total is selected.
 1. A constitutional change should be given a grace period of 1 calendar month during which no contrary changes are made or intitiated.
 
-## Other procedures
-1. Conflict resolution
-	1. Individuals are encouraged to resolve their conflicts directly if possible.
-		1. Techniques and tools that may be helpful include Non-violent Communication, Cognitive Behavioral Therapy and the Advice Process.
-		1. An individual may seek assistance in the form of counselling or mediation. In this case the other conflicted party/ies need not participate in mediation.
-	1. If direct attempts to resolve a conflict fails, the membership and volunteership may intervene to request the conflicted parties use some type of mediation.
-	1. If mediation attempts also fail, the membership may intervene as a last resort to:
-		1. Convert an individual(s) from volunteer to visitor and/or,
-		1. Convert an individuals(s) from member to volunteer or visitor and/or,
-		1. Request an individuals(s) to leave temporarily and/or,
-		1. Request an individuals(s) to leave indefinitely.
+## Conflict resolution
+1. Individuals are encouraged to resolve their conflicts directly if possible.
+	1. Techniques and tools that may be helpful include Non-violent Communication, Cognitive Behavioral Therapy and the Advice Process.
+	1. An individual may seek assistance in the form of counselling or mediation. In this case the other conflicted party/ies need not participate in mediation.
+1. If direct attempts to resolve a conflict fails, the membership and volunteership may intervene to request the conflicted parties use some type of mediation.
+1. If mediation attempts also fail, the membership may intervene as a last resort to:
+	1. Convert an individual(s) from volunteer to visitor and/or,
+	1. Convert an individuals(s) from member to volunteer or visitor and/or,
+	1. Request an individuals(s) to leave temporarily and/or,
+	1. Request an individuals(s) to leave indefinitely.
