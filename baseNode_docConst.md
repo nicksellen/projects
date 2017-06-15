@@ -36,24 +36,15 @@ The operational layer describes everything else. It is not centrally documented.
 	1. There are no criteria for a person to become a visitor.
 	1. A person becomes a visitor by entering the space.
 	1. A person ceases to be a visitor by leaving the space.
-	1. A visitor may reside in the space for up to 7 days after which they must (1) request a residential extension, (2) become a volunteer (See Volunteer) or (3) leave the space.
-	1. A visitor may receive a residential extension of 7 days by decision of the resident members and volunteers (herein 'participants'). Without publicly discussing the visitor, the participants should vote in secret whether they 'support', 'accept' or 'oppose' the visitor receiving an extension at that time:
-		1. if there are only 'support' votes, the visitor receives an extension without further discussion or
-		1. else the participants should discuss the result before repeating the above voting procedure. This time:
-			1. if there are 3 or more times as many 'support' votes to 'oppose' votes, the visitor receives an extension without further discussion or
-			1. else the visitor should leave and not return for at least 7 days.
+	1. A visitor may reside in the space for up to 7 days after which they should (1) apply for an extension, (2) become a volunteer (See Volunteer) or (3) leave the space.
+	1. A visitor may apply for a residential extension of a further 7 days. This application is processed according to the Application procedure where residential members and vounteers are 'participants' and the 'grace period' is 7 days.
 	
 1. Volunteer
 	1. A person more deeply engages with the space as a volunteer. A volunteer has an understanding of the project and a committment to the realization of the purposes. A volunteer may stay in the space indefinitely.
-	1. To apply for volunteership a person:
-		* must have spent at least 8 days as a visitor in total and
-		* must have read and agreed to the Constitution and Collective Agreements.
-	1. An applicant becomes a volunteer by decision of the resident members and volunteers. Without publicly discussing the applicant, each member and volunteer should secretly vote whether they 'support', 'accept' or 'oppose' the applicant becoming a volunteer at that time:
-		1. If there are only 'support' votes, the applicant becomes a volunteer without further discussion or
-		1. else the result and the reasons for it should be discussed and then the vote repeated:
-			1. Now if there are 3 or more times as many 'support' votes to 'oppose' votes, the applicant becomes a volunteer without further discussion or
-			1. else the individual remains a non-volunteer and should not be considered again for volunteership for at least 7 days.
-	1. A volunteer ceases to be a volunteer:
+	1. The criteria for a person to become a volunteer are:
+		* to spend at least 14 days as a visitor and
+		* to read and agree to the Constitution and Collective Agreements.
+	1. A person ceases to be a volunteer:
 		* at their request or
 		* if they become a member or
 		* if they have been absent from the space for more than 1 calendar month or
@@ -63,16 +54,18 @@ The operational layer describes everything else. It is not centrally documented.
 1. Member
 	1. A person most deeply engages with the space as a member. A member may stay in the space indefinitely.
 	1. To apply for membership a person must have spent at least 28 days as a volunteer in total.
-	1. An applicant becomes a member by decision of the entire membership, resident and remote. Without publicly discussing the applicant, each member should secretly vote whether they 'support', 'accept' or 'oppose' the applicant becoming a member at that time:
-		1. If there are only 'support' votes, the applicant becomes a member without further discussion or
-		1. else the result should be discussed and then the vote repeated:
-			1. Now if there are 3 or more times as many 'support' votes to 'oppose' votes, the applicant becomes a member without further discussion or
-			1. else the individual remains a non-member and should not be considered again for membership for at least 28 days.	
 	1. A member ceases to be a member:
 		* at their request (automatically switching to volunteer) or
 		* if they have been absent from the space for more than 6 calendar months (automatically switching to volunteer) or
 		* if they have their member status revoked or
 		* if they have been asked to leave temporarily or indefinitely.	
+
+## Application procedure
+1. Participants are provided with a method to anonymously vote ‘support’, ‘accept’ or ‘oppose’. (Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure).)
+1. The application should be publicly discussed, but only after a mock vote. (The mock vote is used to counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the discussion.)
+1. After discussion, a binding vote is taken:
+	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds or
+	1. else the application fails and the applicant should not reapply for the specified grace period.
 
 ## Operational change
 1. Individual action
@@ -122,3 +115,8 @@ The operational layer describes everything else. It is not centrally documented.
 	1. Convert an individuals(s) from member to volunteer or visitor and/or,
 	1. Request an individuals(s) to leave temporarily and/or,
 	1. Request an individuals(s) to leave indefinitely.
+
+
+
+					
+
