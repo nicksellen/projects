@@ -36,36 +36,38 @@ The operational layer describes everything else. It is not centrally documented.
 	1. There are no criteria for a person to become a visitor.
 	1. A person becomes a visitor by entering the space.
 	1. A person ceases to be a visitor by leaving the space.
-	1. A visitor may reside in the space for up to 7 days after which they should (1) apply for an extension, (2) become a volunteer (See Volunteer) or (3) leave the space.
-	1. A visitor may apply for a residential extension of a further 7 days. This application is processed according to the Application procedure where residential members and vounteers are 'participants' and the 'grace period' is 7 days.
+	1. A visitor may reside in the space for up to 7 days in total after which point they should (1) apply for a further 7-day extension, (2) become a Volunteer or (3) leave the space.
+	1. Applications for extension are processed according to the Application procedure where `the participants` are residential volunteers and members, and `the grace period` is 7 days.
 	
 1. Volunteer
-	1. A person more deeply engages with the space as a volunteer. A volunteer has an understanding of the project and a committment to the realization of the purposes. A volunteer may stay in the space indefinitely.
-	1. The criteria for a person to become a volunteer are:
-		* to spend at least 14 days as a visitor and
-		* to read and agree to the Constitution and Collective Agreements.
+	1. A person more deeply engages with the space as a volunteer. A volunteer has an understanding of the project and a committment to the realization of the purposes.
+	1. The criteria for a person to apply to become a volunteer are:
+		* to have spent at least 14 days as a visitor and
+		* to have read and agreed to the Constitution and Collective Agreements.
+	1. A person becomes a volunteer if their application is successful. Applications for volunteership are processed according to the Application procedure where `the participants` are residential members and `the grace period` is 14 days.
 	1. A person ceases to be a volunteer:
 		* at their request or
 		* if they become a member or
-		* if they have been absent from the space for more than 1 calendar month or
-		* if they have their volunteer status revoked or
-		* if they have been asked to leave temporarily or indefinitely.
+		* by Conflict resolution intervention.
+	1. A volunteer may reside in the space for up to 3 months after becoming a voluteer after which point they should (1) apply for a further 3-month extension, (2) become a Member or (3) leave the space.
 
 1. Member
-	1. A person most deeply engages with the space as a member. A member may stay in the space indefinitely.
+	1. A person most deeply engages with the space as a member.
 	1. To apply for membership a person must have spent at least 28 days as a volunteer in total.
+	1. Applications for membership are processed according to the Application procedure where `the participants` are all members (residential and remote) and `the grace period` is 28 days.
 	1. A member ceases to be a member:
 		* at their request (automatically switching to volunteer) or
 		* if they have been absent from the space for more than 6 calendar months (automatically switching to volunteer) or
 		* if they have their member status revoked or
-		* if they have been asked to leave temporarily or indefinitely.	
+		* if they have been asked to leave temporarily or indefinitely.
+	1. A member may reside in the space indefinitely.
 
 ## Application procedure
-1. Participants are provided with a method to anonymously vote ‘support’, ‘accept’ or ‘oppose’. (Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure).)
-1. The application should be publicly discussed, but only after a mock vote. (The mock vote is used to counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the discussion.)
-1. After discussion, a binding vote is taken:
+1. `The participants` are provided with a method to anonymously vote ‘support’, ‘accept’ or ‘oppose’. (Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure).)
+1. The application should be publicly discussed, but only after `the participants` take a mock vote. (The mock vote is used to counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the discussion.)
+1. After discussion, `the participants` take a binding vote:
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds or
-	1. else the application fails and the applicant should not reapply for the specified grace period.
+	1. else the application fails and the applicant should not reapply for `the grace period`.
 
 ## Operational change
 1. Individual action
@@ -113,10 +115,5 @@ The operational layer describes everything else. It is not centrally documented.
 1. If mediation attempts also fail, the membership may intervene as a last resort to:
 	1. Convert an individual(s) from volunteer to visitor and/or,
 	1. Convert an individuals(s) from member to volunteer or visitor and/or,
-	1. Request an individuals(s) to leave temporarily and/or,
-	1. Request an individuals(s) to leave indefinitely.
-
-
-
-					
-
+	1. Request an individuals(s) to leave temporarily (automatically revokes volunteer or member status) and/or,
+	1. Request an individuals(s) to leave indefinitely (automatically revokes volunteer or member status).
