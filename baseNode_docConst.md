@@ -57,15 +57,15 @@ The operational layer describes everything else. It is not centrally documented.
 1. Applications for membership are processed according to the Application procedure where `the participants` are all members (residential and remote) and `the grace period` is 28 days.
 1. A member ceases to be a member:
 	* at their request (automatically switching to volunteer) or
-	* if they have been absent from the space for more than 6 calendar months (automatically switching to volunteer) or
-	* if they have their member status revoked or
-	* if they have been asked to leave temporarily or indefinitely.
+	* if they have been absent from the space for more than 1 year (automatically switching to volunteer) or
+	* by Conflict resolution intervention.
 1. A member may reside in the space indefinitely.
 
 ## Application procedure
-1. `The participants` are provided with a method that allows them to vote ‘support’, ‘accept’ or ‘oppose' anonymously. <!-- Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure) which can deter people from expressing their honest opinion. -->
-1. The application should be publicly discussed, but only after `the participants` take a mock vote. <!-- A mock vote is used to encourage individual thought and counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the discussion. -->
-1. After the mock vote and subsequent discussion, `the participants` take the real vote:
+1. For the following mock vote and binding vote `the participants` must be provided with a method that allows them to vote ‘support’, ‘accept’ or ‘oppose' anonymously. <!-- Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure) which can deter people from expressing their honest opinion. -->
+1. `The participants` should take a mock vote on the application before publicly discussing the application. <!-- A mock vote is used to encourage individual thought and counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the subsequent discussion. -->
+1. After the mock vote the application should be publicly discussed and, in particular, concerns should be raised and addressed.
+1. After discussion `the participants` should take a binding vote on the application:
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds or
 	1. else the application fails and the applicant should not reapply for `the grace period`.
 
