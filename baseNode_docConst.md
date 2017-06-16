@@ -1,6 +1,6 @@
 # Constitution
 
-## Preamble
+## Preamble <!-- Come back to last -->
 `NAME` is an open-entry common space governed as a commons. The governance model has three layers: the constitutional layer, the collective layer and the operational layer. 
 
 The constitutional layer describes the core agreements upon which the other layers are built. It is documented in the Constitution (this document.) It defines the roles people can adopt and how changes can be made at the different layers. Changes at this layer take the most time and energy and should thus occur at the lowest rate. 
@@ -15,16 +15,13 @@ The operational layer describes everything else. It is not centrally documented.
 1. Haus Kante Wurzen w.V. itself.
 1. All items located within the space, unless specified otherwise.
 
-## Purposes
-<<<There are two layers here... there is not a singular 'project' that is being supported, but many different ones with similar themes>>>
-1. To support people support themselves, the project and the rest of the world.
-1. To support the provision and federation of public goods, public services and common-pool resources.
-1. To support the development and distribute free, libre and open-source software.
-1. To challenge monetary barriers to human needs.
-1. To maintain and improve nodeN assets.
-1. To have a jolly good time.
+## Purposes <!-- Come back to last -->
+1. The maintenance and improvement of `NAME` resources.
+1. The provision and federation of public goods, public services and common-pool resources.
+1. The development and distribution of free, libre and open-source software.
+1. Generally having a jolly good time.
 
-## Principles
+## Principles <!-- Come back to last -->
 1. Autonomy, that individuals can choose what they do. Individuals freely associate with nodeN as it stands and may dissociate at will. nodeN freely associates with individuals as they stand and may dissociate at will.
 1. Equality, that individuals are treated the same.
 1. Acceptability, that acceptance is sought over preference.
@@ -70,25 +67,19 @@ The operational layer describes everything else. It is not centrally documented.
 	1. else the application fails and the applicant should not reapply for `the grace period`.
 
 ## Operational change
-1. Individual action
-	1. Individual action is when a person does things by themselves, without asking.
-	1. Individual action should consider
-		1. existing agreements
-		1. the reversibility of the action
-		1. who else may be affected and how.
-	1. Everyone should voice any opposition they might have towards an individual action as soon as th
-	1. If a person realizes another opposes their actions, they should cease their activity and proceed with unanimous acceptance
-	1. EXIT: If one or more people express opposition towards a current or proposed individual action, proceed with unanimous acceptance.
-	
 1. Unanimous acceptance
-	1. Unanimous acceptance is when action is taken on the basis that no one opposes it.
-	
-	1. Discuss until no one opposes.
-	1. If you can't reach uc but a majority want to decide, go to sv
+	1. Any visitor, volunteer or member or group may take any action by themself provided:
+		1. the action does not explicitly conflict with the Constitution or Collective agreements and
+		1. they are willing and able to personally reverse the action if required and
+		1. no one opposes the action.
+	1. An individual or group should pause a current action or postpone a planned action if someone else opposes it.
+	1. Any individual may voice any opposition they have towards an individual action.
+	1. Exit: ua for sv or maj for sv
 
-1. Score voting
-	1. ...
-	2. 
+1. Binding score vote
+	1. Score voting 
+	1. Only resident volunteers and members may participate in Score voting
+	1. Exit: cc selected.
 
 ## Collective change
 1. Collective change is initiated when all in-space members and volunteers have been notified of a collective proposal which has the backing of at least 1 member or volunteer.
