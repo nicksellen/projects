@@ -63,9 +63,9 @@ The operational layer describes everything else. It is not centrally documented.
 
 ## Application procedure
 1. For the following mock vote and binding vote `the participants` must be provided with a method that allows them to vote ‘support’, ‘accept’ or ‘oppose' anonymously. <!-- Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure) which can deter people from expressing their honest opinion. -->
-1. `The participants` should take a mock vote on the application before publicly discussing the application. <!-- A mock vote is used to encourage individual thought and counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the subsequent discussion. -->
-1. After the mock vote the application should be publicly discussed and, in particular, concerns should be raised and addressed.
-1. After discussion `the participants` should take a binding vote on the application:
+1. `The participants` should take a mock vote on whether the application should succeed before publicly discussing the application. <!-- A mock vote is used to encourage individual thought and counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the subsequent discussion. -->
+1. After the mock vote the application should be publicly discussed and, in particular, any concerns should be raised and addressed.
+1. After discussion `the participants` should take a binding vote on whether the application should succeed:
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds or
 	1. else the application fails and the applicant should not reapply for `the grace period`.
 
@@ -78,6 +78,7 @@ The operational layer describes everything else. It is not centrally documented.
 		1. who else may be affected and how.
 	1. Everyone should voice any opposition they might have towards an individual action as soon as th
 	1. If a person realizes another opposes their actions, they should cease their activity and proceed with unanimous acceptance
+	1. EXIT: If one or more people express opposition towards a current or proposed individual action, proceed with unanimous acceptance.
 	
 1. Unanimous acceptance
 	1. Unanimous acceptance is when action is taken on the basis that no one opposes it.
