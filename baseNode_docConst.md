@@ -31,41 +31,41 @@ The operational layer describes everything else. It is not centrally documented.
 1. Other principles that generally apply where appropriate include [Elionor Ostrom's design principles illustrated by long-enduring CPR institutions,](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) [Permaculture ethics, principles and domains](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf) and [Scrum theory and values.](http://www.scrumguides.org/scrum-guide.html)
 	
 ## Roles
-1. Visitor
-	1. A person initially or temporarily engages with the space as a visitor.
-	1. There are no criteria for a person to become a visitor.
-	1. A person becomes a visitor by entering the space.
-	1. A person ceases to be a visitor by leaving the space.
-	1. A visitor may reside in the space for up to 7 days in total after which point they should (1) apply for a further 7-day extension, (2) become a Volunteer or (3) leave the space.
-	1. Applications for extension are processed according to the Application procedure where `the participants` are residential volunteers and members, and `the grace period` is 7 days.
+### Visitor
+1. A person initially or temporarily engages with the space as a visitor.
+1. There are no criteria for a person to become a visitor.
+1. A person becomes a visitor by entering the space.
+1. A person ceases to be a visitor by leaving the space.
+1. A visitor may reside in the space for up to 7 days in total after which point they should (1) apply for a further 7-day extension, (2) become a Volunteer or (3) leave the space.
+1. Applications for extension are processed according to the Application procedure where `the participants` are residential volunteers and members, and `the grace period` is 7 days.
 	
-1. Volunteer
-	1. A person more deeply engages with the space as a volunteer. A volunteer has an understanding of the project and a committment to the realization of the purposes.
-	1. The criteria for a person to apply to become a volunteer are:
-		* to have spent at least 14 days as a visitor and
-		* to have read and agreed to the Constitution and Collective Agreements.
-	1. A person becomes a volunteer if their application is successful. Applications for volunteership are processed according to the Application procedure where `the participants` are residential members and `the grace period` is 14 days.
-	1. A person ceases to be a volunteer:
-		* at their request or
-		* if they become a member or
-		* by Conflict resolution intervention.
-	1. A volunteer may reside in the space for up to 3 months after becoming a voluteer after which point they should (1) apply for a further 3-month extension, (2) become a Member or (3) leave the space.
+### Volunteer
+1. A person more deeply engages with the space as a volunteer. A volunteer has an understanding of the project and a committment to the realization of the purposes.
+1. The criteria for a person to apply to become a volunteer are:
+	* to have spent at least 14 days as a visitor and
+	* to have read and agreed to the Constitution and Collective Agreements.
+1. A person becomes a volunteer if their application is successful. Applications for volunteership are processed according to the Application procedure where `the participants` are residential members and `the grace period` is 14 days.
+1. A person ceases to be a volunteer:
+	* at their request or
+	* if they become a member or
+	* by Conflict resolution intervention.
+1. A volunteer may reside in the space for up to 3 months after becoming a voluteer after which point they should (1) apply for a further 3-month extension, (2) become a Member or (3) leave the space.
 
-1. Member
-	1. A person most deeply engages with the space as a member.
-	1. To apply for membership a person must have spent at least 28 days as a volunteer in total.
-	1. Applications for membership are processed according to the Application procedure where `the participants` are all members (residential and remote) and `the grace period` is 28 days.
-	1. A member ceases to be a member:
-		* at their request (automatically switching to volunteer) or
-		* if they have been absent from the space for more than 6 calendar months (automatically switching to volunteer) or
-		* if they have their member status revoked or
-		* if they have been asked to leave temporarily or indefinitely.
-	1. A member may reside in the space indefinitely.
+### Member
+1. A person most deeply engages with the space as a member.
+1. To apply for membership a person must have spent at least 28 days as a volunteer in total.
+1. Applications for membership are processed according to the Application procedure where `the participants` are all members (residential and remote) and `the grace period` is 28 days.
+1. A member ceases to be a member:
+	* at their request (automatically switching to volunteer) or
+	* if they have been absent from the space for more than 6 calendar months (automatically switching to volunteer) or
+	* if they have their member status revoked or
+	* if they have been asked to leave temporarily or indefinitely.
+1. A member may reside in the space indefinitely.
 
 ## Application procedure
-1. `The participants` are provided with a method to anonymously vote ‘support’, ‘accept’ or ‘oppose’. (Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure).)
-1. The application should be publicly discussed, but only after `the participants` take a mock vote. (The mock vote is used to counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the discussion.)
-1. After discussion, `the participants` take a binding vote:
+1. `The participants` are provided with a method that allows them to vote ‘support’, ‘accept’ or ‘oppose' anonymously. <!-- Anonymity is used to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure) which can deter people from expressing their honest opinion. -->
+1. The application should be publicly discussed, but only after `the participants` take a mock vote. <!-- A mock vote is used to encourage individual thought and counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the discussion. -->
+1. After the mock vote and subsequent discussion, `the participants` take the real vote:
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds or
 	1. else the application fails and the applicant should not reapply for `the grace period`.
 
@@ -89,7 +89,6 @@ The operational layer describes everything else. It is not centrally documented.
 	1. ...
 	2. 
 
-
 ## Collective change
 1. Collective change is initiated when all in-space members and volunteers have been notified of a collective proposal which has the backing of at least 1 member or volunteer.
 1. The process of collective change (herein 'the process') consists of a divergence phase followed by a decision phase.
@@ -100,7 +99,7 @@ The operational layer describes everything else. It is not centrally documented.
 ## Constitutional change
 1. Constitutional change is fundamental activity that affects that to the governance are constitutional change refers is documented by the addition, subtraction or other transformation of the Constitution (this document.)
 1. The process of constitutional change (herein 'the process') is a looped process.
-1. The process is initiated when all members, resident and remote, have been informed of a constitutional proposal. A constitutional proposal (1) must be backed by at least 3 members and (2) should already be implemented at the collective layer.
+1. The process is initiated when all members (resident and remote) have been informed of a constitutional proposal. A constitutional proposal (1) must be backed by at least 3 members and (2) should already be implemented at the collective layer.
 1. The process is terminated when a proposal is selected twice in a row.
 1. The process itself is composed of a divergence phase followed by a decision phase
 	1. A divergence phase lasts 7 days during which people (1) should discuss the initial proposal and (2) may create alternative proposals. For an alternative proposal to be valid it must be created or backed by at least 1 member. At the end of a divergence phase a ballot is created by gathering (1) the initial proposal, (2) other valid proposals and (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing').
@@ -108,12 +107,16 @@ The operational layer describes everything else. It is not centrally documented.
 1. A constitutional change should be given a grace period of 1 calendar month during which no contrary changes are made or intitiated.
 
 ## Conflict resolution
-1. Individuals are encouraged to resolve their conflicts directly if possible.
+1. Direct resolution
+	1. Individuals are encouraged to acknowledge and resolve their conflicts directly.
 	1. Techniques and tools that may be helpful include Non-violent Communication, Cognitive Behavioral Therapy and the Advice Process.
+
+1. Assisted resolution
 	1. An individual may seek assistance in the form of counselling or mediation. In this case the other conflicted party/ies need not participate in mediation.
-1. If direct attempts to resolve a conflict fails, the membership and volunteership may intervene to request the conflicted parties use some type of mediation.
-1. If mediation attempts also fail, the membership may intervene as a last resort to:
-	1. Convert an individual(s) from volunteer to visitor and/or,
-	1. Convert an individuals(s) from member to volunteer or visitor and/or,
-	1. Request an individuals(s) to leave temporarily (automatically revokes volunteer or member status) and/or,
-	1. Request an individuals(s) to leave indefinitely (automatically revokes volunteer or member status).
+
+1. Intervention
+	1. If mediation attempts also fail, the membership may intervene as a last resort to:
+		1. Convert an individual(s) from volunteer to visitor and/or,
+		1. Convert an individuals(s) from member to volunteer or visitor and/or,
+		1. Request an individuals(s) to leave temporarily (automatically revokes volunteer or member status) and/or,
+		1. Request an individuals(s) to leave indefinitely (automatically revokes volunteer or member status).
