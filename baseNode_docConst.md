@@ -67,14 +67,18 @@ The operational layer describes everything else. It is not centrally documented.
 	1. else the application fails and the applicant should not reapply for `the grace period`.
 
 ## Operational change
-1. Unanimous acceptance
-	1. Any visitor, volunteer or member or group may take any action by themself provided:
-		1. the action does not explicitly conflict with the Constitution or Collective agreements and
+1. Individual action
+	1. Any individual may take action by themself provided:
 		1. they are willing and able to personally reverse the action if required and
-		1. no one opposes the action.
-	1. An individual or group should pause a current action or postpone a planned action if someone else opposes it.
-	1. Any individual may voice any opposition they have towards an individual action.
-	1. Exit: ua for sv or maj for sv
+		1. they are unaware of any opposition towards the action.
+	1. There is no fixed format for individual action: in some cases it may be appropriate to [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce the action](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting, in other cases it may be appropriate to simply [start trying.](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e)
+	1. Any individual may voice opposition towards an individual action and should do so early, clearly and kindly.
+	1. If someone opposes a current or planned action, it should be paused or postponed respectively and unanimous acceptance should be sought.
+	
+1. Unanimous acceptance
+	1. If individual action meets resistance or a group wish to a proposal that 1) no one opposes and/or 2) everyone accepts
+	1. There is no fixed format for unanimous acceptance.
+	1. If unanimous acceptance on can't be reached (i.e. resilient opposition) a decision can be made with score voting score voting. The switch from unanimous acceptance to score voting can be made with unanimous consent or simple majorty.
 
 1. Binding score vote
 	1. Score voting 
@@ -112,3 +116,22 @@ The operational layer describes everything else. It is not centrally documented.
 		1. Convert an individuals(s) from member to volunteer or visitor and/or,
 		1. Request an individuals(s) to leave temporarily (automatically revokes volunteer or member status) and/or,
 		1. Request an individuals(s) to leave indefinitely (automatically revokes volunteer or member status).
+		
+## Generic score vote
+1. init
+1. Make proposals
+1. Rate proposals
+1. exit
+
+op
+1. Only members and volunteers may participate.
+1. Make: Discuss and identify
+
+assumed unanimous acceptance
+	just do it
+	announce it
+known consent
+	advice process
+	discussion
+	
+individual action
