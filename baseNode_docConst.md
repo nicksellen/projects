@@ -1,6 +1,6 @@
 # Constitution
 
-## Preamble <!-- Come back to last -->
+## Preamble <!-- LAST -->
 `NAME` is an open-entry common space governed as a commons. The governance model has three layers: the constitutional layer, the collective layer and the operational layer. 
 
 The constitutional layer describes the core agreements upon which the other layers are built. It is documented in the Constitution (this document.) It defines the roles people can adopt and how changes can be made at the different layers. Changes at this layer take the most time and energy and should thus occur at the lowest rate. 
@@ -15,13 +15,13 @@ The operational layer describes everything else. It is not centrally documented.
 1. Haus Kante Wurzen w.V. itself.
 1. All items located within the space, unless specified otherwise.
 
-## Purposes <!-- Come back to last -->
+## Purposes <!-- LAST -->
 1. The maintenance and improvement of `NAME` resources.
 1. The provision and federation of public goods, public services and common-pool resources.
 1. The development and distribution of free, libre and open-source software.
 1. Generally having a jolly good time.
 
-## Principles <!-- Come back to last -->
+## Principles <!-- LAST -->
 1. Autonomy, that individuals can choose what they do. Individuals freely associate with nodeN as it stands and may dissociate at will. nodeN freely associates with individuals as they stand and may dissociate at will.
 1. Equality, that individuals are treated the same.
 1. Acceptability, that acceptance is sought over preference.
@@ -69,21 +69,19 @@ The operational layer describes everything else. It is not centrally documented.
 ## Operational change
 1. Individual action
 	1. Any individual may take action by themself provided:
-		1. they are willing and able to personally reverse the action if required and
-		1. they are unaware of any opposition towards the action.
-	1. There is no fixed format for individual action: in some cases it may be appropriate to [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce the action](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting, in other cases it may be appropriate to simply [start trying.](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e)
-	1. Any individual may voice opposition towards an individual action and should do so early, clearly and kindly.
-	1. If someone opposes a current or planned action, it should be paused or postponed respectively and unanimous acceptance should be sought.
+		1. they are unaware of any opposition towards the action and
+		1. they are willing and able to personally reverse the action if required.
+	1. There is no specific format for individual action. Whilst in may cases it may be appropriate to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be appropriate to [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce a planned action](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
+	1. If an individual has opposition towards a current or planned individual action they should voice it early, clearly and kindly to the actor.
+	1. If a current or planned individual action meets opposition the actor should pause or postpone it and proceed with unanimous acceptance.
 	
 1. Unanimous acceptance
-	1. If individual action meets resistance or a group wish to a proposal that 1) no one opposes and/or 2) everyone accepts
-	1. There is no fixed format for unanimous acceptance.
-	1. If unanimous acceptance on can't be reached (i.e. resilient opposition) a decision can be made with score voting score voting. The switch from unanimous acceptance to score voting can be made with unanimous consent or simple majorty.
+	1. Unanimous acceptance of a proposal is attained if no involved individual opposes it after being given a free, equal and unambiguous opportunity to do so.
+	1. Finding a unanimously accepted proposal has no fixed format but could include any activity to increase understanding or creativity including rounds, talking objects, consensus facilitation, socratic dialogue, etc, etc.
+	1. If a proposal with unanimous acceptance can not be found in a proportionate time-frame, a decision by score voting should be made. The switch from unanimous acceptance to score voting can be made by unanimous acceptance or simple majorty.
 
-1. Binding score vote
-	1. Score voting 
-	1. Only resident volunteers and members may participate in Score voting
-	1. Exit: cc selected.
+1. Score vote
+	1. Exit: collchange selected.
 
 ## Collective change
 1. Collective change is initiated when all in-space members and volunteers have been notified of a collective proposal which has the backing of at least 1 member or volunteer.
@@ -116,22 +114,3 @@ The operational layer describes everything else. It is not centrally documented.
 		1. Convert an individuals(s) from member to volunteer or visitor and/or,
 		1. Request an individuals(s) to leave temporarily (automatically revokes volunteer or member status) and/or,
 		1. Request an individuals(s) to leave indefinitely (automatically revokes volunteer or member status).
-		
-## Generic score vote
-1. init
-1. Make proposals
-1. Rate proposals
-1. exit
-
-op
-1. Only members and volunteers may participate.
-1. Make: Discuss and identify
-
-assumed unanimous acceptance
-	just do it
-	announce it
-known consent
-	advice process
-	discussion
-	
-individual action
