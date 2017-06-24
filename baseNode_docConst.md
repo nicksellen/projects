@@ -61,35 +61,58 @@ The Operational layer describes everything else. It is not centrally documented 
 1. Finally, `the participants` should take a binding vote in the same fashion as the mock vote. This time:
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds, or
 	1. else the application fails at that time.
+	
+### Operational Activity
+1. Individual Action
+	1. Any individual may take action by themself provided:
+		1. they are unaware of any opposition towards the action and
+		1. they are willing and able to personally reverse the action if required.
+	1. There is no specific format for individual action. Whilst in may cases it may be appropriate to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be appropriate to [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce a planned action](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
+	1. If an individual has opposition towards a current or planned individual action they should voice it early, clearly and kindly to the actor.
+	1. If a current or planned individual action meets opposition the actor should pause or postpone it and proceed with unanimous acceptance.
+	
+1. Unanimous Acceptance
+	1. Unanimous Acceptance of a proposal is attained if no individual opposes it after being given a free, equal and unambiguous opportunity to do so.
+	1. Finding a unanimously accepted proposal has no fixed format but could include any activity to increase understanding or creativity including rounds, talking objects, consensus facilitation, socratic dialogue, etc, etc.
+	1. If a proposal with unanimous acceptance can not be found in a proportionate time-frame, a decision by score voting should be made. The switch from unanimous acceptance to score voting can be made by unanimous acceptance or simple majorty.
+
+1. Score vote
+	1. pf: incl sq, collchoice
+	1. dm: +1 -1
 
 ### Collective Choice
 1. Collective Choice refers to the procedure by which any addition, subtraction or other change to the Collection is made.
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a proposal which (1) is clear and explicit, (2) has the support of at least 1 Member or Volunteer and (3) is not contrary to any Collective made within the last 7 days.
-1. The first part of the procedure, the divergence phase, lasts 3 days during which Members (1) should consider the initial proposal and (2) may create alternative proposals. At the end of the divergence phase a list of proposals is created by gathering (1) the initial proposal, (2) any additional proposals, (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing') and (4) a 'repeat procedure' control proposal (i.e. 'do another divergence phase and decision phase'.)
-1. The second part of the procedure, the decision phase, lasts 3 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of the decision phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the scores for each proposal are totalled and (4) the proposal with the highest total is selected as the final decision and (5) the Collection should be amended to reflect this decision.
+1. The primary phase of the procedure, lasts 3 days during which Members (1) should consider the initial proposal and (2) may create alternative proposals. At the end of this phase a list of proposals is created by gathering (1) the initial proposal, (2) any additional proposals, (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing') and (4) a 'repeat procedure' control proposal (i.e. 'perform the first and second phase again'.)
+1. The secondary phase of the procedure lasts 3 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of this phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the scores for each proposal are totalled and (4) the proposal with the highest total is selected as the final decision and (5) the Collection should be amended to reflect this decision.
 
 ### Constitutional Amendment
 1. Constitutional Amendment refers to the procedure by which any addition, subtraction or other change to the Constitution must be made.
 1. The procedure is initiated when all Members, both resident and remote, are notified of a proposal which (1) is clear and explicit, (2) has the support of at least 3 Members and (3) is not contrary to any other Constitutional Amendment made within the last 28 days.
-1. The first phase of the procedure lasts 7 days during which Members (1) should consider the initial proposal and (2) may create alternative proposals. At the end of this phase a list of proposals is created by gathering (1) the initial proposal, (2) any additional proposals and (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing').
-1. The second phase of the procedure lasts 7 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of this phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the scores for each proposal are totalled and (4) the proposal with the highest total is selected:
-	1. if the selected proposal was also selected at the previous decision phase (1) that proposal becomes the final decision, (2) the Constitution should be amended to reflect this decision and (3) the procedure of Constitutional Amendment is terminated, or 
+1. The primary phase of the procedure lasts 7 days during which Members (1) should consider the initial proposal and (2) may create alternative proposals. At the end of this phase a list of proposals is created by gathering (1) the initial proposal, (2) any additional proposals and (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing').
+1. The secondary phase of the procedure lasts 7 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of this phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the scores for each proposal are totalled and (4) the proposal with the highest total is selected:
+	1. if the selected proposal was also selected at the previous secondary phase (1) the proposal becomes the final decision, (2) the Constitution should be amended to reflect this decision and (3) the procedure of Constitutional Amendment is terminated, or 
 	1. else, the procedure is repeated (i.e. a further set of phases are conducted.)
 
 ### Conflict Resolution
 1. Direct
 	1. Individuals are generally encouraged to resolve their conflicts directly.
-	1. There is no specific format for directly resolving conflicts. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts including but not limited to: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
+	1. There is no specific format for directly resolving conflicts. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
 
-1. Assistance
-	1. If reasonable measures to resolve a conflict directly have proved unsuccessful, one or more of the parties may seek assistance.
+1. Voluntary Assistance
+	1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals may voluntarily seek and/or accept assistance from third-parties.
+	1. There is no specific format for assisted conflict resolution. On the basis that all involved consent to participate, any number of scenarios are possible, including:
+		* A third-party person supporting a single person in the conflict ('support person'.)
+		* A third-party person supporting multiple people in the conflict ('direct bridge'.)
+		* Third-party support people engague in dialogue on behalf of the people in conflict ('indirect bridge'.)
+		* The people in conflict meet before a third-party group to simply witness or offer advice ('panel'.)
 
 1. Intervention
-	1. If reasonable measure mediation attempts also fail, the Membership may intervene as a last resort to:
-		1. Convert an individual(s) from Volunteer to visitor and/or,
-		1. Convert an individuals(s) from Member to Volunteer or visitor and/or,
-		1. Request an individuals(s) to leave temporarily (automatically revokes Volunteer or Member status) and/or,
-		1. Request an individuals(s) to leave indefinitely (automatically revokes Volunteer or Member status).
+	1. If reasonable measures to resolve a conflict with voluntary assistance prove unsuccessful, the resident Volunteers and Members may intervene as a last resort.
+	1. Using the Score Voting procedure outlined in Operational Activity, where proposals may include:
+		1. Requesting an individual to participate in assisted conflict resolution, and/or,
+		1. Revoking an individuals' position of Volunteer or Member, and/or,
+		1. Instructing an individual to leave the space temporarily or indefinitely.
 
 ----
 
