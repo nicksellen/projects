@@ -1,13 +1,13 @@
-# Constitution
+# The Constitution
 
 ## Preamble <!-- LAST -->
-`NAME` is an open-entry common-space. It is governed in three, cascading layers: the constitutional layer, the Collective layer and the operational layer. 
+`NAME` is an open-entry common-space. It is governed in three, cascading layers: the Constitutional layer, the Collective layer and the Operational layer. 
 
-The constitutional layer describes the core agreements upon which the other layers are built. It is documented in the Constitution (this document) and outlines the roles people can adopt and how changes can be made at the different layers. Making changes at this layer takes the most time and energy and should thus occur at the slowest rate. 
+The Constitutional layer describes the core agreements upon which the other layers are built. It is documented in the Constitution (this document) and outlines the roles people can adopt and how changes can be made at the different layers. Making changes at this layer takes the most time and energy and should thus occur at the slowest rate. 
 
-The Collective layer describes more specific agreements than those at the constitutional layer. It is documented in the [Collective-Choices](url.here) and could include things such as policies, schedules, facts or best-practices. Making changes at this layer takes a moderate amount of time and energy and should thus occur at a moderate rate.
+The Collective layer describes more specific agreements than those at the Constitutional layer. It is documented in the [Collective-Choices](url.here) and could include things such as policies, schedules, facts or best-practices. Making changes at this layer takes a moderate amount of time and energy and should thus occur at a moderate rate.
 
-The operational layer describes everything else. It is not centrally documented and could include things such as sub-group agreements, informal agreements or norms. Making changes at this layer takes the least time and energy and should thus occur at the fastest rate.
+The Operational layer describes everything else. It is not centrally documented and could include things such as sub-group agreements, informal agreements or norms. Making changes at this layer takes the least time and energy and should thus occur at the fastest rate.
 
 ## Purposes <!-- LAST -->
 1. To provide and federate public goods, public services and common-pool resources.
@@ -17,10 +17,10 @@ The operational layer describes everything else. It is not centrally documented 
 1. To generally have a jolly good time.
 
 ## Resources
-1. The buildings [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081), herein referred to as 'the space'. <!-- The space is legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) which is registered with Landesdirektion Sachsen. -->
-1. Money and any other resources held by the Haus Kante Wurzen w.V.
-1. Haus Kante Wurzen w.V. itself.
+1. The buildings [Kantstraße 20 & 22, 04808 Wurzen, Germany.](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (These buildings are herein referred to as 'the space' and are legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.))
 1. All items located within the space, unless specified otherwise.
+1. Money and any other resources held by Haus Kante Wurzen w.V.
+1. Haus Kante Wurzen w.V. itself.
 
 ## Principles
 1. Autonomy; minimize coercion.
@@ -69,25 +69,34 @@ The operational layer describes everything else. It is not centrally documented 
 1. The second part of the procedure, the decision phase, lasts 3 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of the decision phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the scores for each proposal are totalled and (4) the proposal with the highest total is selected as the final decision and (5) the Collection should be amended to reflect this decision.
 
 ### Constitutional Amendment
-1. Constitutional Amendment refers to the procedure by which any addition, subtraction or other change to the Constitution is made.
-1. The procedure is initiated when all Members, both resident and remote, are notified of a proposal which (1) is clear and explicit, (2) has the support of at least 3 Members and (3) is not contrary to any constitutional Amendments made within the last 28 days.
-1. The first part of the procedure, the divergence phase, lasts 7 days during which Members (1) should consider the initial proposal and (2) may create alternative proposals. At the end of the divergence phase a list of proposals is created by gathering (1) the initial proposal, (2) any additional proposals and (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing').
-1. The second part of the procedure, the decision phase, lasts 7 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of the decision phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the scores for each proposal are totalled and (4) the proposal with the highest total is selected:
-	1. if the selected proposal was also selected at the previous decision phase (1) that proposal becomes the final decision, (2) the Constitution should be amended to reflect this decision and (3) the process of constitutional Amendment is terminated, or 
-	1. else, the process repeats with a further divergence then decision phase.
+1. Constitutional Amendment refers to the procedure by which any addition, subtraction or other change to the Constitution must be made.
+1. The procedure is initiated when all Members, both resident and remote, are notified of a proposal which (1) is clear and explicit, (2) has the support of at least 3 Members and (3) is not contrary to any other Constitutional Amendment made within the last 28 days.
+1. The first phase of the procedure lasts 7 days during which Members (1) should consider the initial proposal and (2) may create alternative proposals. At the end of this phase a list of proposals is created by gathering (1) the initial proposal, (2) any additional proposals and (3) a 'status quo' control proposal (i.e. 'keep things as they are/change nothing').
+1. The second phase of the procedure lasts 7 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of this phase (1) the scores are simultaneously made public, (2) negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,) (3) the scores for each proposal are totalled and (4) the proposal with the highest total is selected:
+	1. if the selected proposal was also selected at the previous decision phase (1) that proposal becomes the final decision, (2) the Constitution should be amended to reflect this decision and (3) the procedure of Constitutional Amendment is terminated, or 
+	1. else, the procedure is repeated (i.e. a further set of phases are conducted.)
 
 ### Conflict Resolution
-1. Direct resolution
-	1. Individuals are encouraged to acknowledge and resolve their conflicts directly.
-	1. Techniques and tools that may be helpful include Non-violent Communication, Cognitive Behavioral Therapy and the Advice Process.
+1. Direct
+	1. Individuals are generally encouraged to resolve their conflicts directly.
+	1. There is no specific format for directly resolving conflicts. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts including but not limited to: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
 
-1. Assisted resolution
-	1. Individual may seek assistance to resolve their conflicts in the form of counselling or mediation. 
+1. Assistance
+	1. If reasonable measures to resolve a conflict directly have proved unsuccessful, one or more of the parties may seek assistance.
 
 1. Intervention
-	1. If mediation attempts also fail, the Membership may intervene as a last resort to:
+	1. If reasonable measure mediation attempts also fail, the Membership may intervene as a last resort to:
 		1. Convert an individual(s) from Volunteer to visitor and/or,
 		1. Convert an individuals(s) from Member to Volunteer or visitor and/or,
 		1. Request an individuals(s) to leave temporarily (automatically revokes Volunteer or Member status) and/or,
 		1. Request an individuals(s) to leave indefinitely (automatically revokes Volunteer or Member status).
 
+----
+
+Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) - **Take it, use it - don't even ask.**
+
+<div style="text-align:left">
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">
+    <img src="./zCC0_88x31.png" />
+  </a>
+</div>
