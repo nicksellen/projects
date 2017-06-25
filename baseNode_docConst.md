@@ -10,11 +10,18 @@ The Collective-Choice layer contains more concrete and specific agreements than 
 The Operational layer describes everything else. It is not centrally documented and could include things such as sub-group agreements, informal agreements or norms. Making changes at this layer takes the least time and energy and should thus occur at the fastest rate.
 
 ## 1. Purposes <!-- LAST -->
-	1. To provide and federate public goods, public services and common-pool resources.
-	1. To support the development and distribution of free, libre and open-source software.
-	1. To decouple existence from preference.
-	1. To help eveyone take what they need and do what they can
-	1. To generally have a jolly good time.
+1. To provide and federate public goods, public services and common-pool resources.
+1. To support the development and distribution of free, libre and open-source software.
+1. To decouple existence from preference.
+1. To help eveyone take what they need and do what they can
+1. To generally have a jolly good time.
+
+text  
+text  
+	some other text  
+	some other text  
+		yet more text  
+less text
 
 ## 1. Resources
 1. The buildings [Kantstraße 20 & 22, 04808 Wurzen, Germany.](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (These buildings are herein referred to as 'the space' and are legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.))
