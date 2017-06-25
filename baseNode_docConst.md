@@ -9,7 +9,7 @@ The Collective-Choice layer contains more concrete and specific agreements than 
 
 The Operational layer describes everything else. It is not centrally documented and could include things such as sub-group agreements, informal agreements or norms. Making changes at this layer takes the least time and energy and should thus occur at the fastest rate.
 
-1. ## Purposes <!-- LAST -->
+## 1. Purposes <!-- LAST -->
 1. To provide and federate public goods, public services and common-pool resources.
 1. To support the development and distribution of free, libre and open-source software.
 1. To decouple existence from preference.
