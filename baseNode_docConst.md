@@ -22,6 +22,9 @@ The Operational layer describes everything else. It is not centrally documented 
 	1. Money and any other resources held by Haus Kante Wurzen w.V.
 	1. Haus Kante Wurzen w.V. itself.
 		1. and a chocolate biscuit.
+			1. and something else
+				1. maybe one more thing too?
+					1. another?
 
 ## Principles
 1. Autonomy; minimize coercion.
