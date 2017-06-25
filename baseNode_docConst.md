@@ -10,11 +10,11 @@ The Collective-Choice layer contains more concrete and specific agreements than 
 The Operational layer describes everything else. It is not centrally documented and could include things such as sub-group agreements, informal agreements or norms. Making changes at this layer takes the least time and energy and should thus occur at the fastest rate.
 
 ## 2. Purposes <!-- LAST -->
-	1. To provide and federate public goods, public services and common-pool resources.
-	1. To support the development and distribution of free, libre and open-source software.
-	1. To decouple existence from preference.
-	1. To help eveyone take what they need and do what they can
-	1. To generally have a jolly good time.
+1. To provide and federate public goods, public services and common-pool resources.
+1. To support the development and distribution of free, libre and open-source software.
+1. To decouple existence from preference.
+1. To help eveyone take what they need and do what they can
+1. To generally have a jolly good time.
 
 ## 3. Principles
 1. Autonomy; minimize coercion.
@@ -23,10 +23,10 @@ The Operational layer describes everything else. It is not centrally documented 
 1. Other relevant principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions.](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) 
 
 ## 4. Resources
-	1. The buildings [Kantstraße 20 & 22, 04808 Wurzen, Germany.](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (These buildings are herein referred to as 'the space' and are legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.))
-	1. All items located within the space, unless specified otherwise.
-	1. Money and any other resources held by Haus Kante Wurzen w.V.
-	1. Haus Kante Wurzen w.V. itself.
+1. The buildings [Kantstraße 20 & 22, 04808 Wurzen, Germany.](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (These buildings are herein referred to as 'the space' and are legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.))
+1. All items located within the space, unless specified otherwise.
+1. Money and any other resources held by Haus Kante Wurzen w.V.
+1. Haus Kante Wurzen w.V. itself.
 
 <p align="center"><i>Positions</i></p>
 
@@ -172,3 +172,15 @@ Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero
     <img src="./zCC0_88x31.png" />
   </a>
 </div>
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
+  with this work has waived all copyright and related or neighboring
+  rights to this work.
+</p>
