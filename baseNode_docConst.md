@@ -20,10 +20,10 @@ The Operational layer describes everything else. It is not centrally documented 
 1. Autonomy; minimize coercion.
 1. Equality; minimize inequality.
 1. Acceptability; minimize opposition.
-1. Other relevant principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions.](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) 
+1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions.](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) 
 
 ## 4. Resources
-1. The buildings [Kantstraße 20 & 22, 04808 Wurzen, Germany.](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (These buildings are herein referred to as 'the space' and are legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.))
+1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany.](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (These buildings are herein referred to as 'the space' and are legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.))
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
 1. Haus Kante Wurzen w.V. itself.
@@ -32,9 +32,10 @@ The Operational layer describes everything else. It is not centrally documented 
 
 ## 5. Volunteer
 1. A Volunteer may—
-	1. reside in the space and make use of the other Resources,
-	1. take part in Operational Activity and Collective Choice, and 
-	1. participate in the selection of other Volunteers.
+	1. reside in the space and make use of the other Resources (See 5.5.iii.),
+	1. participate in Operational Activity and Collective Choice, 
+	1. participate in the selection of other Volunteers, and
+	1. participate in Voluntary Assistance during Conflict Resolution.
 1. A Volunteer should—
 	1. take what they need and seek aid if required,
 	1. take on a portion of the social and logistical responsibility for the space, and 
@@ -52,20 +53,21 @@ The Operational layer describes everything else. It is not centrally documented 
 ## 6. Member
 1. A Member may—
 	1. reside in the space and make use of the other Resources,
-	1. take part in Operational Activity, Collective Choice and Constitutional Amendment,
-	1. participate in the selection of Volunteers and other Members.
-1. A Volunteer should—
+	1. participate in Operational Activity, Collective Choice and Constitutional Amendment,
+	1. participate in the selection of Volunteers and other Members, and
+	1. participate in Voluntary Assistance and Intervention during Conflict Resolution.
+1. A Member should—
 	1. take what they need and seek aid if required, 
-	1. take on a portion of the social and logistical responsibility for the space, and
-	1. contribute in some way to the wider world.
-	1. assumes an equal share of the social, legal, financial, logistical, digital, spiritual
+	1. take on a portion of the social and logistical responsibility for the space,
+	1. contribute in some way to the wider world, and
+	1. assume an equitable share of the entire responsibility for the space with other Members, including social, legal and financial matters.
 1. In order to become a Member a person must—
 	1. have resided in the space as a Volunteer for at least 28 days in total, of which at least 14 days were consecutive, and
 	1. reconfirm they have read, understand and accept the Constitution and Collective Agreements.
-1. A person becomes a Member subject to the result of an Application Procedure where `the participants` are residential and remote Members.
+1. A person becomes a Member subject to the result of an Application Procedure where `the participants` means all Members, residential and remote.
 1. A person ceases to be a Member—
 	1. at their request (automatically switching to Volunteer,)
-	1. if they have been absent from the space for more than 6 months (automatically switching to Volunteer,) or
+	1. if they have been continuosly absent from the space for more than 6 months (automatically switching to Volunteer,) or
 	1. by Conflict Resolution Intervention.
 
 <p align="center"><i>Procedures</i></p>
@@ -73,7 +75,7 @@ The Operational layer describes everything else. It is not centrally documented 
 ## 7. Application Procedure
 1. Firstly `the participants` should take an anonymous mock vote of whether they ‘support’, ‘accept’ or ‘oppose' the application succeeding.
 1. Secondly `the participants` should discuss the application and, in particular, raise and address any concerns.
-1. Finally `the participants` should take a binding vote in the same fashion as the mock vote. This time—
+1. Finally `the participants` take a binding vote in the same fashion as the mock vote. This time—
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds, or
 	1. else the application fails at that time.
 	
@@ -92,28 +94,25 @@ The Operational layer describes everything else. It is not centrally documented 
 1. If a proposal with Unanimous Acceptance can not be found in a proportionate time-frame, a decision by score voting should be made. The switch from Unanimous Acceptance to Score Voting can itself be made by Unanimous Acceptance or simple majority.
 
 ### 8c. Score Vote
-1. Individuals discuss initial proposal(s) and create new ones.
-1. After discussion, create proposal list by gathering— 
+1. Individuals discuss initial proposal(s) and create new ones. After discussion, create proposal list by gathering— 
 	1. the initial proposal(s),
 	1. any additional proposals,
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and 
 	1. an 'escalate procedure' control proposal (i.e. 'switch procedure to Collective Choice'.)	
- 1. Individuals score the listed proposals from a range of +1 (indicating total support) to -1 (indicating total opposition.)
+1. Individuals score the listed proposals from a range of +1 (indicating total support) to -1 (indicating total opposition.)
  	1. count -1 as -3,
 	1. total the adjusted scores for each proposal,
 	1. the proposal with the highest total is selected as the final decision.
 
 ## 9. Collective Choice
-1. Collective Choice refers to the procedure by which any addition, subtraction or other change to the Collection is made.
+1. Collective Choice refers to the procedure by which any addition, subtraction or other change to the Collective Choices must be made.
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal which is not contrary to any other Collective Choice made within the last 7 days.
-1. The primary phase of the procedure, lasts 3 days during which Members should consider the initial proposal and may create alternative proposals. 
-1. At the end of the primary phase a list of proposals is created by gathering—
+1. The primary phase of the procedure, lasts 3 days during which Members should consider the initial proposal and may create alternative proposals. At the end of the primary phase a list of proposals is created by gathering—
 	1. the initial proposal,
 	1. any additional proposals,
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and 
 	1. a 'repeat procedure' control proposal (i.e. 'perform the first and second phase again'.)
-1. The secondary phase of the procedure lasts 3 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. 
-1. At the end of the secondary phase—
+1. The secondary phase of the procedure lasts 3 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of the secondary phase—
 	1. the scores are simultaneously made public,
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
 	1. the adjusted scores for each proposal are totalled,
@@ -125,13 +124,11 @@ The Operational layer describes everything else. It is not centrally documented 
 1. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal which—
 	1. has the support of at least 3 Members, and
 	1. is not contrary to any other Constitutional Amendment made within the last 28 days.
-1. The primary phase of the procedure lasts 7 days during which Members should consider the initial proposal and may create alternative proposals. 
-1. At the end of the primary phase a list of proposals is created by gathering—
+1. The primary phase of the procedure lasts 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of the primary phase a list of proposals is created by gathering—
 	1. the initial proposal, 
 	1. any additional proposals, and 
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
-1. The secondary phase of the procedure lasts 7 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. 
-1. At the end of the secondary phase—
+1. The secondary phase of the procedure lasts 7 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of the secondary phase—
 	1. the scores are simultaneously made public, 
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
 	1. the scores for each proposal are totalled,  
@@ -150,14 +147,14 @@ The Operational layer describes everything else. It is not centrally documented 
 
 ### 11b. Voluntary Assistance
 1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals may voluntarily seek and/or accept assistance from third-parties.
-1. There is no specific format for assisted conflict resolution. On the basis that all involved consent to participate, any number of scenarios are possible, including—
+1. There is no specific format for assisted conflict resolution. On the basis that all involved consent to participate, many scenarios are possible, including—
 	1. a third-party person supporting a single person in the conflict ('support person',)
 	1. a third-party person supporting multiple people in the conflict ('direct bridge',)
 	1. third-party support people engague in dialogue on behalf of the people in conflict ('indirect bridge',) or
 	1. the people in conflict meet before a third-party group to simply witness or offer advice ('panel'.)
 
 ### 11c. Intervention
-1. If reasonable measures to resolve a conflict with voluntary assistance prove unsuccessful, the resident Volunteers and Members may intervene as a last esort.
+1. If reasonable measures to resolve a conflict with voluntary assistance prove unsuccessful, the Members may intervene as a last esort.
 1. Using the Score Voting procedure outlined in Operational Activity, where proposals may include—
 	1. requesting an individual to participate in assisted conflict resolution,
 	1. revoking an individuals' position of Volunteer or Member, or
@@ -165,22 +162,20 @@ The Operational layer describes everything else. It is not centrally documented 
 
 ------
 
-Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) - **Take it, use it - don't even ask.**
-
-<div style="text-align:left">
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">
-    <img src="./zCC0_88x31.png" />
-  </a>
-</div>
-
-<p xmlns:dct="http://purl.org/dc/terms/">
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
   <br />
   To the extent possible under law,
-  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
-  with this work has waived all copyright and related or neighboring
-  rights to this work.
+  <a rel="dct:publisher"
+     href="https://mastodon.xyz/@douginamug">
+    <span property="dct:title">dougWebb</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">commonHouseConstitution_0.1</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="BI" about="https://mastodon.xyz/@douginamug">
+  Burundi</span>.
 </p>
