@@ -176,6 +176,6 @@ The Operational layer describes everything else. It is not centrally documented 
   <span property="dct:title">commonHouseConstitution_0.1</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="BI" about="https://mastodon.xyz/@douginamug">
+      content="BI" about="https://github.com/DougInAMug">
   Burundi</span>.
 </p>
