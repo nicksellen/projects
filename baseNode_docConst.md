@@ -21,10 +21,6 @@ The Operational layer describes everything else. It is not centrally documented 
 	1. All items located within the space, unless specified otherwise.
 	1. Money and any other resources held by Haus Kante Wurzen w.V.
 	1. Haus Kante Wurzen w.V. itself.
-		1. and a chocolate biscuit.
-			1. and something else
-				1. maybe one more thing too?
-					1. another?
 
 ## Principles
 1. Autonomy; minimize coercion.
@@ -32,8 +28,11 @@ The Operational layer describes everything else. It is not centrally documented 
 1. Acceptability; minimize opposition.
 1. Other relevant principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions.](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) 
 	
-## Positions
-### Volunteer
+------
+
+<p align="center"><i>Positions</i></p>
+
+## Volunteer
 1. A Volunteer may—
 	1. reside in the space and make use of the other Resources,
 	1. take part in Operational Activity and Collective Choice, and 
@@ -52,7 +51,7 @@ The Operational layer describes everything else. It is not centrally documented 
 	1. 3 months after becoming a Volunteer, or
 	1. by Conflict Resolution Intervention.
 
-### Member
+1. ### Member
 1. A Member may—
 	1. reside in the space and make use of the other Resources,
 	1. take part in Operational Activity, Collective Choice and Constitutional Amendment,
@@ -71,8 +70,11 @@ The Operational layer describes everything else. It is not centrally documented 
 	1. if they have been absent from the space for more than 6 months (automatically switching to Volunteer,) or
 	1. by Conflict Resolution Intervention.
 
-## Procedures
-### Application Procedure
+------
+
+<p align="center"><i>Procedures</i></p>
+
+1. ## Application Procedure
 1. Firstly `the participants` should take an anonymous mock vote of whether they ‘support’, ‘accept’ or ‘oppose' the application succeeding.
 1. Secondly `the participants` should discuss the application and, in particular, raise and address any concerns.
 1. Finally `the participants` should take a binding vote in the same fashion as the mock vote. This time—
