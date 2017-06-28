@@ -91,3 +91,15 @@ Changing norms
 4. **Conflict is a significant consequence.** Working with others dramatically increases the collective potential... if you're not in conflict. Conflict is a vague consequence in terms of its particular form
 
 Rules without specific undesire consequences (i.e. punishments) a mechanical enforcement agency (i.e. the police) are simply indicators of a high probability of conflict
+
+layer				artifact			state change
+operational			none				operational activity
+collective-choice	collective choices	collective choice
+constitutional		the constitution	constitutional amendement
+german state		...					...
+
+investors neq w.V. members neq residents
+
+How long does it take to really get to know someone? A month? Two? As in, what are the time-spans relevant for r1 and r2?
+
+
