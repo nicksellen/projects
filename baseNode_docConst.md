@@ -1,15 +1,15 @@
 # The Constitution
 
 ## 1. Preamble
-`NAME` is an open-entry, common-space. It is governed in three layers—
-1. The Constitutional layer prescribes _who decides what should happen and how_. It includes the core agreements such as purposes, roles and procedures which support and supercede agreements in the other layers. It is documented in the Constitution (this document.)
-2. The Collective layer prescribes _what should happen_. It includes agreements such as policies, schedules and best-practices which support and supercede agreements in the Operational layer. It is documented in the [Collective Choices](https://github.com/DougInAMug/projects/blob/master/baseNode_docColl.md).
+`NAME` is governed in three layers—
+1. The Constitutional layer prescribes _who decides what should happen and how_. It includes the core agreements such as purposes, roles and procedures which support and supersede agreements in the other layers. It is documented in [the Constitution](https://github.com/DougInAMug/projects/blob/master/baseNode_docConst.md) (this document.)
+2. The Collective layer prescribes _what should happen_. It includes agreements such as policies, schedules and best-practices which support and supersede agreements in the Operational layer. It is documented in [the Collective Choices](https://github.com/DougInAMug/projects/blob/master/baseNode_docColl.md).
 3. The Operational layer describes _what actually happens_. This includes things such as norms, working-group agreements and spontaneous activity. It is not centrally documented.
 
 ## 2. Purposes
 1. To provide public goods and services to the local community.
 1. To provide and federate public and common-pool resources.
-1. To develop and distribute of open-source software.
+1. To develop and distribute open-source software.
 1. To generally decouple existence from preference.
 1. To generally have a jolly good time.
 
@@ -20,7 +20,7 @@
 1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
 
 ## 4. Resources
-1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany.](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (These buildings are herein referred to as 'the space' and are legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.))
+1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.)
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
 1. Haus Kante Wurzen w.V. itself.
@@ -85,14 +85,14 @@
 ### 8b. Unanimous Acceptance
 1. Unanimous Acceptance towards a proposal or action is attained whilst no involved individual opposes it.
 1. There is no specific format for attaining Unanimous Acceptance. Many tools and techniques exist which may help, including: smaller-scale testing, presentation (with debate) and holding meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking objects](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
-1. If Unanimous Acceptance can not be attained in a proportionate time-frame, the individuals involved should procede with Score Voting. The switch from Unanimous Acceptance to Score Voting should be made by Unanimous Acceptance but may be made by simple majority.
+1. If Unanimous Acceptance can not be attained in a proportionate time-frame, the individuals involved should proceed with Score Voting. The switch from Unanimous Acceptance to Score Voting should be made by Unanimous Acceptance but may be made by simple majority.
 
 ### 8c. Score Voting
 1. Firstly, individuals should discuss the current state-of-affairs, the initial proposal (if applicable) and generate alternative proposal(s). Afterwards, a list of proposals is created by gathering—
 	1. the initial proposal and/or the generated proposals,
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and 
 	1. an 'escalate procedure' control proposal (i.e. 'switch to Collective Change'.)
-1. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totalled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected. <!-- The differential weighting  between 'support' and 'oppose' has the philosophical basis of it being more preferable to avoid suffering than increase happiness and the procedural basis of monitoring and sanctioning accounting for significant cost. -->
+1. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totaled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected. <!-- The differential weighting  between 'support' and 'oppose' has the philosophical basis of it being more preferable to avoid suffering than increase happiness and the procedural basis of monitoring and sanctioning accounting for significant cost. -->
 
 ## 9. Collective Change
 1. Collective Change refers to the procedure by which any addition, subtraction or other change to the Collective Choices must be made.
@@ -105,7 +105,7 @@
 	1. an 'escalate procedure' control proposal (i.e. 'switch to Constitutional Change'.)
 1. The secondary phase of the procedure lasts 3 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of the secondary phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-	1. the adjusted scores for each proposal are totalled,
+	1. the adjusted scores for each proposal are totaled,
 	1. the proposal with the highest total is selected, and 
 	1. the Collective Choices should be changes to reflect this decision.
 
@@ -119,7 +119,7 @@
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
 1. The secondary phase of the procedure lasts 7 days during which Members should individually score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) For a score to be valid it must identify the scorer. At the end of the secondary phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-	1. the adjusted scores for each proposal are totalled,  
+	1. the adjusted scores for each proposal are totaled,  
 	1. the proposal with the highest total is selected, and
 	1. if the selected proposal was also selected at the previous secondary phase—
 		1. the proposal becomes the final decision, 
@@ -134,16 +134,16 @@
 1. There is no specific format for Direct Conflict Resolution. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
 
 ### 11b. Voluntary Assistance
-1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'conflictant') may voluntarily seek and/or accept assistance from third-parties.
+1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'actor') may voluntarily seek and/or accept assistance from third-parties.
 1. There is no specific format for Conflict Resolution with Voluntary Assistance. On the basis that all involved consent to participate, many scenarios are possible, including—
-	1. a third-party individual supporting a single conflictant ('support person',)
-	1. a third-party individual supporting multiple conflictants ('direct bridge',)
-	1. support persons engaging in dialogue on behalf of the conflictants ('indirect bridge',) or
-	1. a group of third-party individuals attend a meeting of the conflictants to bear witness and/or offer advice ('panel'.)
+	1. a third-party individual supporting a single actor ('support person',)
+	1. a third-party individual supporting multiple actors ('direct bridge',)
+	1. support persons engaging in dialogue on behalf of the actors ('indirect bridge',) or
+	1. a group of third-party individuals attend a meeting of the actors to bear witness and/or offer advice ('panel'.)
 
 ### 11c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, the Members may intervene as a last resort.
-1. Conflict Resolution by Intervention is decided by Members in the absence of the conflictants by Unanimous Acceptance (8b.) or Score Voting (8c.) where proposals may include—
+1. Conflict Resolution by Intervention is decided by Members in the absence of the actors using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include—
 	1. requesting an individual to participate in assisted conflict resolution,
 	1. revoking an individuals' position of Volunteer or Member, or
 	1. instructing an individual to leave the space temporarily or indefinitely.
@@ -167,6 +167,8 @@ This work is published from:
       content="BI" about="https://github.com/DougInAMug/projects/blob/master/baseNode_docConst.md">
   Burundi</span>.
 </p>
+
+------
 
 Questions
 - Is the preamble clear/useful?

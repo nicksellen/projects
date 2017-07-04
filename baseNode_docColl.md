@@ -1,4 +1,4 @@
-# Collective Choices
+# The Collective Choices
 
 ## Visitors
 1. A person initially or temporarily engages with the space as a visitor.
