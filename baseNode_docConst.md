@@ -1,7 +1,7 @@
 # The Constitution
 
 ## 1. Preamble
-`NAME` is governed in three layers—
+`NAME` is an open-entry common-space in East Germany, dedicated to the common good. It is governed in three layers—
 1. The Constitutional layer prescribes _who decides what should happen and how_. It includes the core agreements such as purposes, roles and procedures which support and supersede agreements in the other layers. It is documented in [the Constitution](https://github.com/DougInAMug/projects/blob/master/baseNode_docConst.md) (this document.)
 2. The Collective layer prescribes _what should happen_. It includes agreements such as policies, schedules and best-practices which support and supersede agreements in the Operational layer. It is documented in [the Collective Choices](https://github.com/DougInAMug/projects/blob/master/baseNode_docColl.md).
 3. The Operational layer describes _what actually happens_. This includes things such as norms, working-group agreements and spontaneous activity. It is not centrally documented.
